@@ -1,0 +1,209 @@
+92. 【ID: 121】ベルクロ（マジックテープ）のひらめき
+テーマ: 犬の毛に絡みついた野生の植物からの大発明。
+ファイル名: `121.png`
+イラストのイメージ: 
+アルプスの山を散歩する発明家（ジョルジュ・デ・メストラル）と愛犬。犬のモフモフの毛に、トゲトゲの野生の植物の種（オナモミなど）がたくさんくっついている。発明家がそれを不思議そうにつまみ上げ、ルーペで覗き込んでいる。ルーペのレンズ越しに、マジックテープの「フック」と「ループ」の拡大構造が透けて見えている。
+参考プロンプト: An inventor walking his fluffy dog in the Swiss Alps. The dog's fur is covered in prickly burdock seeds. The inventor curiously picks one off and looks at it through a magnifying glass. Through the lens, a highly magnified view reveals the microscopic 'hook and loop' structure of modern Velcro. Biomimicry invention, historical discovery, nature inspiration, highly detailed.
+
+93. 【ID: 122】プチプチ（気泡緩衝材）の本来の用途
+テーマ: 「立体的な壁紙」として開発され、失敗から生まれた大ヒット梱包材。
+ファイル名: `122.png`
+イラストのイメージ: 
+1950年代のレトロでお洒落なリビングルーム。壁の片面に、巨大な「プチプチ（気泡緩衝材）」が立体的な壁紙として貼られている。しかし、部屋の住人がそれに寄りかかってしまい「パンッ！」と気泡が弾けて驚いている、少しコミカルでレトロポップな光景。
+参考プロンプト: A retro 1950s stylish living room. One of the walls is entirely covered in giant bubble wrap, originally intended as textured, 3D wallpaper. A resident leans against the wall, causing a loud 'POP!' and looking surprised. Comical retro-pop art style, the accidental invention of bubble wrap, highly detailed.
+
+94. 【ID: 123】ボールペンの誕生
+テーマ: 空を飛ぶパイロットのために作られた、インクが漏れないペンの革命。
+ファイル名: `123.png`
+イラストのイメージ: 
+1930年代のプロペラ戦闘機のコックピット。高度が上がり、気圧が下がったため、パイロットの胸ポケットに入れた万年筆からインクが噴き出して汚れている。その横で、もう一人のパイロットが、先端に小さな「ボール」が輝く新しいボールペンを使って、揺れる機内でも綺麗に地図に線を引いている。
+参考入プロンプト: The cockpit of a 1930s propeller fighter plane at high altitude. One pilot's fountain pen is leaking heavily due to air pressure, staining his shirt. Beside him, another pilot is smoothly drawing a line on a map using a newly invented ballpoint pen, its tiny metal tip glowing. Aviation history, invention of the ballpoint pen, retro-industrial, highly detailed.
+
+95. 【ID: 124】最初のコンピューターバグ
+テーマ: 本物の「蛾」が機械に挟まったことで生まれたIT用語。
+ファイル名: `124.png`
+イラストのイメージ: 
+1940年代の部屋いっぱいに広がる巨大な初期のコンピューター（Mark II）。女性プログラマー（グレース・ホッパー）が、ピンセットを使って、機械の複雑なリレー（スイッチ）の間に挟まって死んでいる本物の「蛾」を慎重につまみ出している。彼女のノートには「First actual case of bug being found」と書かれている。
+参考プロンプト: A massive, room-sized early computer (Mark II) in the 1940s. A female programmer (Grace Hopper) is using tweezers to carefully extract a real, physical moth that has been crushed between the electrical relays. Her logbook nearby reads 'First actual case of bug being found'. The literal origin of the computer bug, retro tech history, highly detailed.
+
+96. 【ID: 125】バーコードのデザイン設計
+テーマ: 砂浜に描かれたモールス信号から生まれた、世界を繋ぐ縞模様。
+ファイル名: `125.png`
+イラストのイメージ: 
+夕暮れの海岸。発明家（ノーマン・ジョセフ・ウッドランド）が、砂浜に指でモールス信号の「点」と「線」を描いている。彼は波打ち際に向かってその点と線を下へ長く引き伸ばし、それが現在見慣れた「バーコード」の縞模様に変化していくロマンチックなひらめきの瞬間。
+参考プロンプト: A beach at sunset. An inventor is drawing Morse code dots and dashes in the sand with his fingers. He then drags his fingers downwards towards the water, stretching the dots and dashes into long, vertical lines, miraculously transforming them into the modern barcode pattern. A romantic moment of invention, cinematic lighting, highly detailed.
+
+97. 【ID: 126】青色LEDの奇跡
+テーマ: 世界中の科学者が諦めた光を灯した、不可能への挑戦。
+ファイル名: `126.png`
+イラストのイメージ: 
+薄暗い研究室。研究者が顕微鏡を覗きながら、ピンセットで小さな半導体チップを触っている。これまで「赤」と「緑」しかなかった世界に、突然、チップから眩しいほどの「青い光（青色LED）」が放たれ、研究室全体と研究者の顔を希望の色に照らし出している。
+参考プロンプト: A dim laboratory. A researcher looking through a microscope is manipulating a tiny semiconductor chip with tweezers. Suddenly, a blindingly bright, pure blue light (the first Blue LED) bursts from the chip, illuminating the researcher's face and the entire room with a color of hope and the impossible achieved. Scientific breakthrough, high-tech illumination, highly detailed.
+
+98. 【ID: 127】GPSと相対性理論
+テーマ: アインシュタインがいなければ、スマホの地図は毎日11kmズレていた。
+ファイル名: `127.png`
+イラストのイメージ: 
+地球を周回するGPS人工衛星。その真横に、半透明の光るアインシュタインの姿が浮かび上がり、時計の針をわずかに遅らせて調整している（重力による時間の歪みの補正）。下界の地球では、人々がスマホのマップを見て正確に目的地へ歩いている。
+参考プロンプト: A GPS satellite orbiting the Earth. Next to it, a glowing, translucent spirit of Albert Einstein is delicately adjusting a floating pocket watch, correcting the time dilation caused by gravity and speed. Down on Earth, tiny people are using smartphone maps to navigate perfectly. Relativity in modern technology, sci-fi concept art, highly detailed.
+
+99. 【ID: 128】アポロ計画のコンピューター
+テーマ: ファミコン以下の計算能力で月面着陸を成功させたソフトウェア。
+ファイル名: `128.png`
+イラストのイメージ: 
+アポロ月面着陸船の狭い船内。宇宙飛行士が、現代の電卓のようなゴツゴツとした古いコンピューター（AGC）を操作している。そのコンピューターからは、マーガレット・ハミルトンが書いた自分の背丈ほどもある膨大な量の「紙のプログラムコード」が滝のように溢れ出している。
+参考プロンプト: Inside the cramped Apollo lunar module. An astronaut is operating the clunky, calculator-like Apollo Guidance Computer. Flowing out from the machine like a waterfall is a massive, towering stack of printed software code, as tall as a person, representing the incredible human effort behind the low-tech hardware. Moon landing technology, retro space age, highly detailed.
+
+100. 【ID: 129】トレッドミル（ランニングマシン）の暗黒史
+テーマ: 元々は「囚人の拷問器具」だったという恐怖。
+ファイル名: `129.png`
+イラストのイメージ: 
+19世紀の暗い刑務所。囚人たちが、巨大な水車のような形の「踏み車（トレッドミル）」の上を延々と歩き続けさせられている。その残酷な歯車が、現代の明るいスポーツジムでランニングマシンを笑顔で走る人々の風景へと、グラデーションのように切り替わっていく対比。
+参考プロンプト: A dark 19th-century Victorian prison. Exhausted prisoners are forced to endlessly climb a massive, paddle-wheel-like treadmill. This grim historical scene smoothly transitions through a gradient into a bright, modern fitness gym where people are happily jogging on modern electronic treadmills. Dark history of fitness, conceptual contrast, highly detailed.
+
+101. 【ID: 130】鉛筆に消しゴムがついた理由
+テーマ: 貧しい画家が「パンの耳」の代わりに思いついた大発明。
+ファイル名: `130.png`
+イラストのイメージ: 
+19世紀の薄暗い画室。貧しい画家がキャンバスに向かい、間違えた線を「パンの耳」でこすって消そうとしているが、パンくずが散らかってイライラしている。ふと、彼は机の上の小さなゴムの塊を見つけ、それを鉛筆の後ろにギュッと押し付けて閃いた表情をしている。
+参考プロンプト: A dim 19th-century artist's studio. A poor artist is frustrated, trying to erase pencil mistakes on a canvas using a crust of bread, leaving messy crumbs everywhere. Suddenly, he notices a small chunk of rubber on his desk. He excitedly presses it onto the back end of his pencil, striking a moment of brilliant invention. Historical art supplies, warm nostalgic lighting, highly detailed.
+
+102. 【ID: 131】ジーンズの「小さなポケット」
+テーマ: 実は懐中時計を入れるためのものだった。
+ファイル名: `131.png`
+イラストのイメージ: 
+19世紀のゴールドラッシュ時代。泥だらけのデニムを履いた金鉱掘りが、ジーンズの右ポケットの上にある「小さなポケット」から、美しく輝く金色の懐中時計を取り出して時間を確認している。荒々しい労働着と繊細な時計の美しいコントラスト。
+参考プロンプト: The 19th-century Gold Rush era. A rugged gold miner wearing muddy blue jeans is pulling a beautifully shining, golden pocket watch out of the tiny 'watch pocket' above the main right pocket. The beautiful contrast between rough workwear and a delicate timepiece. Wild west history, denim origins, highly detailed.
+
+103. 【ID: 132】トイレのマークが「赤と青」なのは日本だけ？
+テーマ: 東京オリンピックが生んだピクトグラム革命。
+ファイル名: `132.png`
+イラストのイメージ: 
+1964年の東京オリンピックの会場デザイン室。デザイナーたちが、外国人にも一目でわかる「言葉のいらない標識（ピクトグラム）」を考案している。机の上には、世界で初めて作られた「青い男性マーク」と「赤い女性マーク」のデザイン画が誇らしげに置かれている。
+参考プロンプト: A design studio during the 1964 Tokyo Olympics. Designers are creating 'pictograms', signs that can be understood without words by foreigners. Proudly displayed on the desk are the world's very first design drafts of the iconic blue male and red female toilet symbols. History of design, mid-century modern aesthetics, highly detailed.
+
+104. 【ID: 133】「左利き」が天才と呼ばれる理由
+テーマ: 右脳と左脳の接続と、人類の進化のマイノリティ。
+ファイル名: `133.png`
+イラストのイメージ: 
+左手でペンを持ち、滑らかに数式や芸術的な絵を描いている人物。その頭部が透けて見えており、右脳（芸術や直感のカラフルな光）と左脳（論理や計算の青い光）を結ぶ太いケーブル（脳梁）が、激しく光り輝いて情報のやり取りを高速で行っているサイバーな図解。
+参考プロンプト: A person smoothly drawing complex math equations and artistic sketches with their left hand. Their head is translucent, revealing a glowing brain. The corpus callosum, the thick cable connecting the colorful, creative right brain and the blue, logical left brain, is brilliantly illuminated, showing high-speed data transfer. Neuroscience, left-handed genius, cybernetic schematic, highly detailed.
+
+105. 【ID: 134】「こんにちは」の続き
+テーマ: 本来は「今日（こんにち）はご機嫌いかがですか」という長い挨拶だった。
+ファイル名: `134.png`
+イラストのイメージ: 
+江戸時代の街道。旅人同士がすれ違いざまに深くお辞儀をしている。彼らの口から吹き出しが出ており、最初は「今日（こんにち）はご機嫌いかがですか」という長い文字だが、それが風に吹かれて徐々に削られ、現代の若者がスマホを打ちながら「こんにちは」と短く言うポップな風景へと変化していく。
+参考プロンプト: A road in the Edo period. Two travelers are bowing deeply to each other. A speech bubble comes from them containing a very long traditional greeting in Japanese calligraphy. As the text flows down the road, it is eroded by the wind and visually transforms into a modern teenager looking at a smartphone, casually saying a short 'Konnichiwa'. Evolution of language, time-lapse concept, highly detailed.
+
+106. 【ID: 135】パスポートの色
+テーマ: 赤と青の違いは？ 国際政治と主権が込められた手帳の秘密。
+ファイル名: `135.png`
+イラストのイメージ: 
+空港の入国審査ゲート。様々な国の旅行者が並び、手には「赤（EUや社会主義圏の歴史）」「青（新世界や海洋国家）」「緑（イスラム圏）」のパスポートを持っている。パスポート自体が小さな光るオーラを放っており、それぞれの国の歴史やイデオロギーがオーラの中に象徴的に浮かび上がっている。
+参考プロンプト: An airport immigration gate. Various international travelers are holding different colored passports: red, blue, and green. Each passport emits a subtle, glowing aura, inside of which faint, symbolic historical images (European architecture, oceans, Islamic patterns) reflect the geopolitical meaning behind the color. International travel, diplomatic history, cinematic lighting, highly detailed.
+
+107. 【ID: 136】キーボードの「QWERTY」配列
+テーマ: なぜABC順ではないのか？ タイプライターの絡まりを防ぐ知恵。
+ファイル名: `136.png`
+イラストのイメージ: 
+19世紀の古くて重厚なタイプライター。ABC順に並んだ初期のモデルを猛スピードで叩くと、金属のアーム（活字棒）が内部でガチャンと絡まり合って火花を散らしている。それを防ぐため、よく使う文字をあえてバラバラに配置した「QWERTY」の盤面が、輝く解決策として浮かび上がる。
+参考プロンプト: A heavy, antique 19th-century typewriter. Someone is typing furiously on an early ABC-ordered keyboard, causing the internal metal typebars to jam together and spark violently. Floating above it, like a brilliant glowing solution, is the modern 'QWERTY' keyboard layout designed to prevent the jamming. Invention of the keyboard, retro-mechanical, highly detailed.
+
+108. 【ID: 137】血液型占いは日本発祥
+テーマ: 世界的には「自分の血液型を知らない」人の方が多い事実。
+ファイル名: `137.png`
+イラストのイメージ: 
+日本人の女の子が「A型は真面目、B型はマイペース」という雑誌を熱心に読んでいる。その後ろに立つ外国人の友人たちは頭に大きな「？」マークを浮かべ、「自分の血液型なんて知らないよ、病院でしか使わないでしょ？」と不思議そうに肩をすくめているカルチャーギャップの風景。
+参考プロンプト: A Japanese girl eagerly reading a colorful magazine about 'Blood Type Personality Astrology'. Standing behind her, several foreign friends from different countries have large floating '?' marks over their heads, shrugging in confusion because they don't even know their own blood types. Cultural differences, comical slice-of-life, highly detailed.
+
+109. 【ID: 138】カーディガンは戦争から生まれた
+テーマ: 負傷した兵士が着脱しやすいように編まれたセーター。
+ファイル名: `138.png`
+イラストのイメージ: 
+19世紀のクリミア戦争の野戦病院。寒さに震える負傷した兵士（カーディガン伯爵の部隊）が、頭から被るセーターを着るのに苦労している。そこで、前をハサミで切り開き、ボタンを取り付けた「世界初のカーディガン」が作られ、兵士が暖かそうにそれを羽織って微笑んでいる。
+参考プロンプト: A 19th-century field hospital during the Crimean War. A wounded, shivering soldier is struggling to pull a traditional sweater over his injured head. A tailor is cutting the front of a sweater open and sewing on buttons, creating the world's first 'cardigan'. The soldier smiles warmly as he easily puts it on. Military history, origin of clothing, warm dramatic lighting, highly detailed.
+
+110. 【ID: 139】シャンプーの語源
+テーマ: ヒンディー語の「マッサージする」から来た、髪を洗う文化の伝来。
+ファイル名: `139.png`
+イラストのイメージ: 
+18世紀のインド。現地の職人が、イギリスから来た植民地の貴族の頭皮を、ハーブやオイルを使って力強く心地よく「マッサージ（チャンポー）」している。その気持ちよさに感動したイギリス人が、それをイギリスに持ち帰り、泡立つ現代のシャンプーボトルへと変化していく文化の架け橋。
+参考プロンプト: 18th-century India. A local artisan is vigorously but pleasantly massaging (chāmpo) the scalp of an aristocratic British colonist using aromatic herbs and oils. The British man looks incredibly relaxed. This scene flows magically into a modern, sudsy bottle of shampoo, representing the cultural transfer. Etymology of shampoo, historical exoticism, highly detailed.
+
+111. 【ID: 140】世界一短い国境線
+テーマ: モロッコとスペインの間に存在する「わずか85メートル」の境界。
+ファイル名: `140.png`
+イラストのイメージ: 
+モロッコの海岸線にある巨大な岩（ペニョン・デ・ベレス・デ・ラ・ゴメラ）。その岩とアフリカ大陸を繋ぐ、わずか85メートルの短い砂浜。砂浜の真ん中に青いロープ（またはフェンス）が引かれ、片側にはスペイン国旗、もう片側にはモロッコ国旗が立ち、兵士が互いに手を伸ばせば届きそうな距離で立っている。
+参考プロンプト: A massive rock fortress (Peñón de Vélez de la Gomera) off the coast of Morocco. It is connected to the African mainland by a tiny, 85-meter strip of sandy beach. In the middle of the sand is a blue rope acting as a border. A Spanish soldier and a Moroccan soldier stand on opposite sides, so close they could almost shake hands. The world's shortest international border, geographical oddity, highly detailed.
+
+112. 【ID: 141】ダイヤモンドの価値
+テーマ: 実は希少ではない？ 「永遠の輝き」という史上最強のマーケティング。
+ファイル名: `141.png`
+イラストのイメージ: 
+20世紀初頭の広告代理店の会議室。「ダイヤモンドは永遠の輝き」という伝説のキャッチコピーを思いついた広告マンが、巨大なポスターを掲げている。そのポスターの魔法によって、山のように溢れていた普通の透明な石ころ（ダイヤモンド原石）が、人々にとって「世界で最も高価で神聖な宝石」へと価値が変わっていく幻覚。
+参考プロンプト: An early 20th-century advertising agency boardroom. An ad executive holds up a poster with the legendary slogan 'A Diamond is Forever'. A magical aura flows from the poster, transforming a massive, abundant pile of ordinary rough diamonds into glowing, highly-priced sacred gems in the minds of the public. The greatest marketing campaign in history, illusion of scarcity, highly detailed.
+
+113. 【ID: 142】国旗に「紫」が使われない理由
+テーマ: かつて紫色が「金と同じ重さ」の価値を持つ超高級染料だったから。
+ファイル名: `142.png`
+イラストのイメージ: 
+古代フェニキアの染物工房。数万個の腐った巻貝から、わずか数滴の「紫色」の染料（ティリアンパープル）を抽出している。その紫色は黄金のように眩しく輝き、王様だけが着るマントに使われている。一般の国旗に使うには高価すぎた歴史的背景が、輝く紫と大量の貝殻で表現されている。
+参考プロンプト: An ancient Phoenician dye workshop. Workers are extracting just a few drops of 'Tyrian purple' dye from tens of thousands of rotting murex sea snails. The purple liquid glows blindingly bright, like liquid gold, being used to dye a royal cape. The historical reason why purple was too expensive for national flags. Ancient luxury, rich purple hues, highly detailed.
+
+114. 【ID: 143】砂漠に雪が降る？
+テーマ: 世界最大のサハラ砂漠で観測された、気象のイタズラ。
+ファイル名: `143.png`
+イラストのイメージ: 
+見渡す限りの赤茶けたサハラ砂漠の砂丘。しかし、その砂丘の表面が真っ白な雪と氷で覆われている。ラクダに乗った遊牧民が、見たこともない雪景色の中で、吐く息を白くしながら驚いて立ち尽くしている、非常に美しくもシュールな気象の奇跡。
+参考プロンプト: The vast, reddish-brown sand dunes of the Sahara Desert. However, the surface of the dunes is completely covered in pure white snow and ice. A Bedouin nomad on a camel stands frozen in astonishment, his breath visible in the freezing air, looking at the impossible winter landscape. A meteorological miracle, surreal nature photography, highly detailed.
+
+115. 【ID: 144】紙幣の寿命
+テーマ: 1万円札は約4〜5年で寿命を迎える？ 回収されたお札の意外な再利用法。
+ファイル名: `144.png`
+イラストのイメージ: 
+日本銀行のシュレッダー室。ボロボロになった大量の1万円札が機械に吸い込まれ、粉々になって排出されている。その「お札の紙くず」が、トイレットペーパーや住宅の断熱材、さらには固形燃料へと魔法のようにリサイクルされていく循環のプロセス。
+参考プロンプト: Inside the shredding room of the Bank of Japan. Thousands of worn-out, tattered 10,000 yen bills are being sucked into a machine and shredded. The shredded currency magically transforms into rolls of toilet paper, house insulation material, and solid fuel blocks, showing the recycling cycle of money. Financial trivia, conceptual art, highly detailed.
+
+116. 【ID: 145】世界一長い地名
+テーマ: ニュージーランドにある「85文字」の丘の名前とその由来。
+ファイル名: `145.png`
+イラストのイメージ: 
+ニュージーランドの美しい緑の丘。丘の麓に立つ看板が異常なほど長く、横に何十メートルも伸びている。看板には「Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu」という85文字の地名が書かれており、観光客が看板の端から端まで歩きながら呆然としている。
+参考プロンプト: A beautiful green hill in New Zealand. At the base of the hill is an absurdly long wooden signpost stretching dozens of meters horizontally. The sign contains a single, 85-letter place name. Tourists are walking from one end of the sign to the other, looking completely dumbfounded. The world's longest place name, humorous travel photography, highly detailed.
+
+117. 【ID: 146】エッフェル塔の身長
+テーマ: 夏と冬で高さが「15センチ」も変わる、金属の熱膨張の不思議。
+ファイル名: `146.png`
+イラストのイメージ: 
+パリのエッフェル塔が2つ並んだ対比図。左は雪の降る凍えるような冬で、塔が寒さで少し縮こまっている。右は猛暑の夏で、強烈な太陽の熱を受けた鉄の塔が熱膨張し、誇らしげに15センチほど背伸びをして高くなっている、金属が生き物のように呼吸する様子。
+参考プロンプト: A split-screen illustration of the Eiffel Tower in Paris. On the left, it is freezing winter with snow, and the iron tower is slightly shrunken and huddled from the cold. On the right, it is a blazing hot summer, and the tower has thermally expanded, stretching proudly 15 centimeters taller towards the sun. Metal breathing like a living thing, architectural physics, highly detailed.
+
+118. 【ID: 147】自動販売機の歴史
+テーマ: 紀元前エジプトの「聖水販売機」から始まった硬貨の魔法。
+ファイル名: `147.png`
+イラストのイメージ: 
+古代エジプトの神殿。信者が、複雑なテコの原理が透けて見える奇妙な青銅の装置の上のスリットに硬貨を入れている。硬貨の重さで内部の天秤が傾き、蛇口からチョロチョロと「聖水」が流れ出ている。世界初の自動販売機の、古代のハイテク感あふれる設計図のような光景。
+参考プロンプト: An ancient Egyptian temple. A worshipper drops a heavy coin into a slit on a strange, bronze device. A translucent cutaway view reveals the internal lever and scale mechanism. The weight of the coin tilts the scale, causing a small amount of 'holy water' to flow from a spout. The world's first vending machine, ancient high-tech blueprint style, highly detailed.
+
+119. 【ID: 148】南極の氷の年齢
+テーマ: 一番古い氷はなんと「100万年前」。閉じ込められた過去の地球の空気。
+ファイル名: `148.png`
+イラストのイメージ: 
+南極の氷床の奥深くに開けられたアイスコア（氷の柱）。研究者がライトで氷柱を照らすと、その中には無数の小さな気泡が閉じ込められている。気泡の中には、マンモスが歩いていた氷河期の空気や、恐竜が絶滅した後の古代の地球の大気が、タイムカプセルのようにキラキラと保存されている。
+参考プロンプト: Deep inside an Antarctic ice core. A researcher shines a light through the cylindrical pillar of ancient ice, revealing thousands of tiny trapped air bubbles. Inside these bubbles, miniature, magical glimpses of the past can be seen—mammoths walking in the ice age, representing ancient Earth's atmosphere perfectly preserved like a time capsule. Glaciology, climate history, highly detailed.
+
+120. 【ID: 149】時差の不思議
+テーマ: 中国はあんなに広いのに、国内の時差が「ゼロ（北京時間統一）」である理由。
+ファイル名: `149.png`
+イラストのイメージ: 
+巨大な中国大陸の地図。東の上海では明るい太陽が昇る朝の風景、西の新疆ウイグル自治区ではまだ星空が広がる真夜中の風景。しかし、両方の場所にいる人々が持っている時計は、全く同じ「朝の6時」を指しているという、政治的統一が生んだ奇妙な時間の歪み。
+参考プロンプト: A massive map of the Chinese mainland. On the eastern side (Shanghai), it is bright morning with the sun rising. On the far western side (Xinjiang), it is still pitch-black midnight with a starry sky. However, the clocks held by people in both completely different time zones show exactly the same time, '6:00 AM'. The bizarre distortion of unified time zones, geographical anomaly, highly detailed.
+
+121. 【ID: 150】マラソンの距離の理由
+テーマ: なぜ42.195kmという中途半端な数字になったのか？ イギリス王室のわがまま。
+ファイル名: `150.png`
+イラストのイメージ: 
+1908年のロンドンオリンピック。マラソンのゴール地点。当初は40kmの予定だったが、イギリス王室の子供たちが「お城の窓からスタートを見たい」とわがままを言ったため、スタート地点がウィンザー城に変更され、ゴールまで巻き尺で測り直している審判員の姿。2.195kmが追加された歴史の瞬間。
+参考プロンプト: The finish line of the 1908 London Olympics marathon. Originally planned to be 40km, but British Royal children selfishly requested to 'watch the start from the castle window'. A frustrated official is using a long measuring tape from Windsor Castle to the finish line, adding the awkward extra 2.195 kilometers. The comical origin of the marathon distance, historical sports moment, highly detailed.

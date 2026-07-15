@@ -1,0 +1,209 @@
+122. 【ID: 151】サンドイッチ伯爵のギャンブル
+テーマ: カードゲームをしながら食事をするために生まれた大発明。
+ファイル名: `151.png`
+イラストのイメージ: 
+18世紀の豪華なイギリスの貴族の館。サンドイッチ伯爵が、カードゲーム（トランプ）に熱中している。片手にはカードを持ち、もう片方の手で、ローストビーフをパンで挟んだ「世界初のサンドイッチ」をかじっている。テーブルの下には大量の金貨やチップが積まれ、周囲の貴族たちがその画期的な食事スタイルに驚いて見ている。
+参考プロンプト: A luxurious 18th-century British noble estate. The Earl of Sandwich is intensely playing a high-stakes card game. In one hand he holds his playing cards, and in the other, he is taking a bite out of the world's first 'sandwich' (roast beef between two slices of bread). Stacks of gold coins and gambling chips are on the table. Other nobles are looking at his new eating style with amazement. Historical gambling, origin of the sandwich, highly detailed.
+
+123. 【ID: 152】モーツァルトの借金生活
+テーマ: 天才作曲家はなぜあんなに稼いでいたのに、常に貧乏だったのか？
+ファイル名: `152.png`
+イラストのイメージ: 
+18世紀のウィーン。モーツァルトが、大量の金貨が入った袋を抱えながらも、最新の流行の高級な服を買い、高価なビリヤード台を家に運び込ませている。しかし彼の後ろには、真っ黒な影の姿をした「借金取り」たちが長い列を作って立っており、モーツァルトが陽気に笑いながらも首が回らなくなっている様子。
+参考プロンプト: 18th-century Vienna. Wolfgang Amadeus Mozart, holding a bag of gold coins, is extravagantly buying the latest high-fashion clothes and having an expensive billiard table delivered to his home. However, behind him stands a long, ominous line of shadowy 'debt collectors'. Mozart is laughing cheerfully, completely oblivious to his impending financial ruin. Historical genius, financial irony, highly detailed.
+
+124. 【ID: 153】ピラミッドの建設労働者は「ストライキ」をしていた？
+テーマ: 奴隷ではなく、ビールと給料をもらう労働者。
+ファイル名: `153.png`
+イラストのイメージ: 
+古代エジプトのピラミッド建設現場。過酷な労働をさせられる「奴隷」のイメージとは違い、労働者たちが腕組みをして座り込み、パピルスのプラカード（ヒエログリフで「ビールをよこせ！」と書いてある）を掲げてストライキをしている。困り果てた役人が、大量のパンと壺に入ったビールを運んできて謝っている。
+参考プロンプト: An ancient Egyptian pyramid construction site. Contrary to the 'slave' myth, healthy laborers are sitting down on strike with their arms crossed, holding papyrus picket signs with hieroglyphics that read 'We want beer!'. A stressed Egyptian official is rushing over, apologizing and bringing them large baskets of bread and clay jugs of beer. Historical labor rights, ancient Egypt, highly detailed.
+
+125. 【ID: 154】ツタンカーメンの呪いの正体
+テーマ: 発掘者たちの死は「細菌」のせいだったという科学的見解。
+ファイル名: `154.png`
+イラストのイメージ: 
+暗い王家の谷の地下墓室。発掘者（ハワード・カーターたち）が黄金の棺を開けている。彼らの目には見えていないが、棺の中からは、数千年の間閉じ込められていた「古代の致死性のカビや細菌」が、ドクロの形をした不気味な緑色の胞子となって空中に舞い上がり、彼らの肺へと吸い込まれようとしている。
+参考プロンプト: Inside the dark, underground tomb in the Valley of the Kings. Archaeologists (like Howard Carter) are opening the golden sarcophagus of Tutankhamun. Unseen by them, ancient, deadly mold and bacteria trapped for millennia are billowing out of the coffin as a creepy, glowing green cloud of spores shaped like skulls, drifting towards their lungs. The real 'Curse of the Pharaoh', scientific explanation, highly detailed.
+
+126. 【ID: 155】ノーベル賞に「数学賞」がない理由
+テーマ: ノーベルの恋敵が数学者だったから？ 真実と噂の境界線。
+ファイル名: `155.png`
+イラストのイメージ: 
+アルフレッド・ノーベルが、自分の遺言書（ノーベル賞の設立書）を怒った顔で書いている。彼の頭の中の吹き出しには、自分が恋心を寄せていた美しい女性が、イケメンの数学者と腕を組んで歩き去っていく光景が描かれており、ノーベルがペンを折る勢いで「数学賞だけは絶対に作らない！」と書き殴っているコミカルな妄想図。
+参考プロンプト: Alfred Nobel is angrily writing his last will and testament (establishing the Nobel Prizes). In a thought bubble above his head, a beautiful woman he loved is walking away arm-in-arm with a handsome, smug mathematician. Nobel is gripping his pen so hard it almost breaks, furiously crossing out the word 'Mathematics' on the prize list. A comical historical rumor, highly detailed.
+
+127. 【ID: 156】ワシントン大統領の入れ歯
+テーマ: 実は木製ではなく、カバの牙や人間の歯で作られていた。
+ファイル名: `156.png`
+イラストのイメージ: 
+初代アメリカ大統領ジョージ・ワシントンが、立派な肖像画のポーズをとっているが、口元をきつく結んで苦しそうにしている。彼の頭の横の透視図（レントゲン）には、カバの牙、象牙、金のワイヤー、そして本物の人間の歯をツギハギして作られた、恐ろしいフランケンシュタインのような「入れ歯」が描かれている。
+参考プロンプト: The first US President, George Washington, posing for a majestic portrait, but his lips are tightly sealed and he looks like he is in pain. A floating x-ray or diagram next to his head reveals his horrifying, Frankenstein-like dentures made from hippo ivory, gold wire, and real human teeth. Historical medical trivia, mildly macabre, highly detailed.
+
+128. 【ID: 157】ナポレオンと缶詰
+テーマ: 遠征する軍隊の食糧問題を解決するために懸賞金をかけた結果。
+ファイル名: `157.png`
+イラストのイメージ: 
+雪が降る過酷なロシア遠征の戦場。お腹を空かせたフランス兵士たちが、ニコラ・アペール（缶詰の発明者）から送られた「瓶詰め」の食糧を開けて、温かいスープや肉を食べて歓喜している。空には、ナポレオンの巨大な顔が満足げに微笑んでいる。
+参考プロンプト: The harsh, snowy battlefield of the Russian campaign. Starving French soldiers are joyfully opening glass jars of preserved food (the precursor to the tin can, invented by Nicolas Appert) and eating warm soup and meat. In the snowy sky above, the giant face of Emperor Napoleon smiles down in satisfaction at his well-fed army. Military logistics history, winter war, highly detailed.
+
+129. 【ID: 158】ペンギンの名前の由来
+テーマ: 本来は北半球にいた「オオウミガラス」の名前だった。
+ファイル名: `158.png`
+イラストのイメージ: 
+絶滅した北半球の「オオウミガラス（元祖ペンギン）」の幽霊が、南半球の氷の上にいる現代の可愛らしい「ペンギン」に、自分の名前が書かれた名札を悲しそうに手渡している。オオウミガラスの体は半透明で、現代のペンギンは不思議そうにそれを受け取っている。
+参考プロンプト: The glowing, translucent ghost of an extinct Great Auk (the original 'penguin' of the Northern Hemisphere) is sadly handing over a name tag that reads 'PENGUIN' to a cute, modern Emperor penguin standing on Antarctic ice. The modern penguin takes it with a confused expression. Extinct species, historical naming mix-up, melancholic beautiful lighting, highly detailed.
+
+130. 【ID: 159】コーヒー・バッハ
+テーマ: バッハが作曲した「コーヒー・カンタータ」という名の、コーヒー愛好曲。
+ファイル名: `159.png`
+イラストのイメージ: 
+18世紀のドイツのコーヒーハウス。音楽家J.S.バッハが、巨大なコーヒーカップに浸かりながら、気持ちよさそうにパイプオルガンを弾いている。彼の周りでは、コーヒー豆が音符に変化して空中を舞い、人々がコーヒーの香りと音楽に酔いしれているシュールな光景。
+参考プロンプト: An 18th-century German coffeehouse. The great composer J.S. Bach is sitting comfortably inside a giant cup of hot coffee, happily playing a pipe organ. Surrounding him, floating coffee beans are magically transforming into musical notes dancing in the air. The patrons are mesmerized by the aroma and the music. The 'Coffee Cantata', surreal classical music, highly detailed.
+
+131. 【ID: 160】オリンピックの金メダルは「銀」でできている？
+テーマ: 純金で作られない経済的な理由。
+ファイル名: `160.png`
+イラストのイメージ: 
+表彰台で金メダルを噛んでいるアスリート。その金メダルの表面の金メッキがパラリと剥がれ落ち、中から「純銀（92.5%の銀）」の銀色の輝きが見えてしまっている。アスリートは「あれ？」という顔をしているが、大会の運営委員はそろばんを弾いて汗を拭っている。
+参考プロンプト: An Olympic athlete standing on the podium, biting into their gold medal. A small piece of the gold plating flakes off, revealing the shiny pure silver (92.5% silver) core underneath. The athlete looks confused, while an Olympic official in the background nervously wipes sweat while calculating costs on an abacus. Olympic trivia, humorous sports moment, highly detailed.
+
+132. 【ID: 161】ゴッホの「ひまわり」が黄色い理由
+テーマ: 新しい絵の具の発明と、緑内障による視覚変化の仮説。
+ファイル名: `161.png`
+イラストのイメージ: 
+ゴッホが燃えるような黄色の「ひまわり」を描いている。彼の目を通して見た世界が表現されており、視界全体が黄色いフィルター（黄視症の影響）に覆われ、さらに新発明の「クロムイエロー」のチューブから、光のような強烈な黄色の絵の具がキャンバスに流れ込んでいる。
+参考プロンプト: Vincent van Gogh passionately painting his famous 'Sunflowers'. The scene is shown partially from his point of view, where the entire world is tinted with a surreal yellow filter (representing xanthopsia or digitalis toxicity). A newly invented tube of 'Chrome Yellow' paint is pouring a brilliant, glowing yellow light directly onto the canvas. Art history, visual perception, highly detailed.
+
+133. 【ID: 162】ゴルフのカップの大きさ
+テーマ: 108ミリという中途半端なサイズは「余った塩水用パイプ」から生まれた。
+ファイル名: `162.png`
+イラストのイメージ: 
+19世紀のスコットランドのゴルフ場（リンクス）。コース管理人が、穴の崩れを防ぐために、その辺に転がっていた「108ミリ（4.25インチ）の廃材の水道管パイプ」をハンマーでゴルフの穴に叩き込んでいる。それが未来の「世界標準サイズ」になるとは知らずに作業する、素朴な歴史的瞬間。
+参考プロンプト: A 19th-century Scottish golf links course. A groundskeeper is using a heavy mallet to hammer a piece of scrap 4.25-inch (108mm) saltwater drain pipe into a golf hole to prevent the edges from collapsing. He is completely unaware that this makeshift solution will become the strict global standard for all golf courses forever. The origins of golf, historical sports trivia, highly detailed.
+
+134. 【ID: 163】ミロのヴィーナスの腕
+テーマ: もし両腕があったら何を持っていたのか？ 不完全だからこそ完璧な女神。
+ファイル名: `163.png`
+イラストのイメージ: 
+ルーブル美術館に展示されたミロのヴィーナス。その失われた両腕が、半透明のホログラムのように何パターンも切り替わって表示されている。ある時は「黄金のリンゴ」を持ち、ある時は「戦いの盾」を持ち、またある時は「布」を抑えている。見る者の想像力を掻き立てる未完の美の象徴。
+参考プロンプト: The Venus de Milo statue displayed in the Louvre. Her missing arms are visualized as shifting, translucent, glowing holograms. In one flickering moment, she holds a golden apple, in another, a warrior's shield, and in another, she holds her drapery. The concept of how her incomplete nature invites infinite imagination. Art history mystery, museum setting, highly detailed.
+
+135. 【ID: 164】オーケストラのチューニング
+テーマ: なぜ「オーボエ」の音に全員が合わせるのか？
+ファイル名: `164.png`
+イラストのイメージ: 
+コンサートホールのステージ。オーケストラの団員たちがチューニングをしている。中央に座るオーボエ奏者が吹いた「A（ラ）」の音が、黄金の真っ直ぐなレーザー光線のようにステージ上に放たれ、他のすべての楽器（バイオリンやフルート）がその光の基準線に合わせて自分の音（光）を微調整して重ねていく美しい視覚化。
+参考プロンプト: A symphony orchestra on stage tuning their instruments. The oboe player in the center plays an 'A' note, which visualizes as a perfectly straight, golden laser beam piercing across the stage. The other instruments (violins, flutes) are emitting their own wavy lines of light, adjusting them until they perfectly align and lock onto the oboe's golden standard beam. Visualizing music theory, highly detailed.
+
+136. 【ID: 165】相撲の「塩」
+テーマ: 土俵にまく塩は1日にどれくらい？ 邪気払いの儀式と滑り止めの現実。
+ファイル名: `165.png`
+イラストのイメージ: 
+日本の国技館。巨大な力士が、空高く豪快に塩をまいている。その塩の粒が空中で二つのイメージに分かれる。上半分は「悪霊や邪気を払う神聖な光の粒」、下半分は「土俵の水分を吸って摩擦を生む、物理的な滑り止めのザラザラした結晶」として描かれた、神事と実用の融合。
+参考プロンプト: A massive Sumo wrestler in a grand Japanese arena throwing a massive handful of purifying salt high into the air. In mid-air, the salt splits into two visual concepts: the upper half glows as holy, divine light banishing evil spirits, while the lower half transforms into highly detailed, sharp microscopic salt crystals providing physical friction and grip on the clay ring (dohyo). Japanese culture, highly detailed.
+
+137. 【ID: 166】映画館のポップコーン
+テーマ: なぜ暗闇の劇場に選ばれたのか？ 音が出ない物理的特性と大恐慌を救った奇跡。
+ファイル名: `166.png`
+イラストのイメージ: 
+1930年代の映画館。客席で、一人の客が「硬いポテトチップス」を食べて「バリバリ！」と雷のような騒音を出し、周囲から怒られている。一方、別の客は「ポップコーン」を食べており、噛む音がフワフワとした雲のように無音で消え、静かに映画を楽しめている物理的な対比。
+参考プロンプト: Inside a 1930s movie theater. One patron is eating hard potato chips, which visually create loud, jagged lightning-bolt sound waves that anger the people around him. Next to him, another patron is eating popcorn, and the chewing sounds are depicted as soft, silent, fluffy clouds dissipating harmlessly into the dark. The acoustic reason popcorn is the perfect cinema snack, highly detailed.
+
+138. 【ID: 167】ピアノの鍵盤の色
+テーマ: 昔は「白黒が逆」だった？ 象牙の節約と高貴なる黒檀が織りなした歴史。
+ファイル名: `167.png`
+イラストのイメージ: 
+モーツァルトの時代の古いチェンバロ（ピアノの祖先）。現在のピアノとは逆に、メインの鍵盤が「黒（黒檀）」で、派生音が「白（象牙）」になっている。女性の白い肌が黒い鍵盤の上で美しく映えるように設計されたという歴史を反映し、貴婦人の白い手が黒い鍵盤の上を優雅に滑る美学的な構図。
+参考プロンプト: An antique harpsichord from Mozart's era. The keyboard colors are reversed compared to modern pianos: the natural keys are black ebony, and the accidental keys are white ivory. A noblewoman's pale, elegant hands are playing the black keys, creating a striking aesthetic contrast. Historical musical instruments, elegant baroque setting, highly detailed.
+
+139. 【ID: 168】テニスの得点の数え方
+テーマ: なぜ「15、30、40」なのか？ 中世の時計盤分割の謎。
+ファイル名: `168.png`
+イラストのイメージ: 
+中世フランスの修道院の中庭。修道士たちがテニスの原型である「ジュ・ド・ポーム」をプレイしている。得点板の代わりに巨大なアナログ時計が置かれており、点が入るたびに時計の針が「15分」「30分」「45分（後に40に短縮）」へと進んでいく、スポーツと時間の奇妙な融合。
+参考プロンプト: A courtyard in a medieval French monastery. Monks are playing 'Jeu de Paume', the ancestor of tennis. Instead of a scoreboard, there is a giant analog clock face. Every time a point is scored, the clock's minute hand moves forward to '15', '30', and '45' (which later became 40). The historical origin of tennis scoring, medieval sports, highly detailed.
+
+140. 【ID: 169】ベートーヴェンの「運命」
+テーマ: ジャジャジャジャーンは借金取りのノックの音？ 天才を脅かした過酷な現実。
+ファイル名: `169.png`
+イラストのイメージ: 
+暗い部屋で耳が聞こえなくなったベートーヴェンがピアノに向かって苦悩している。突然、重い木のドアが「ダ・ダ・ダ・ダーン！」と激しくノックされる。そのノックの音が、強烈な運命の力（または借金取りの恐怖）として、空中に燃えるような四つの音符となってベートーヴェンに襲いかかる。
+参考プロンプト: A dark room where a deaf Beethoven is agonizing over his piano. Suddenly, the heavy wooden door is knocked violently: 'Da-Da-Da-Dum!'. The sound of the knock visualizes as four massive, flaming musical notes of 'Destiny' (or perhaps a terrifying debt collector) looming over him. The dramatic inspiration for Symphony No. 5, highly detailed.
+
+141. 【ID: 170】血液型の不思議
+テーマ: なぜ人類には4つの型があるのか？ 感染症との戦いの歴史。
+ファイル名: `170.png`
+イラストのイメージ: 
+人間の血液の中のミクロの世界。赤血球たちが、O型（つるつる）、A型（トゲトゲ）、B型（丸い突起）の異なる「盾」を持って、マラリアやコレラなどの「古代の病原菌のモンスター」と戦っている。多様な盾を持つことで、人類全体が全滅するのを防ぐ進化的防衛システムのファンタジー表現。
+参考プロンプト: A microscopic view inside human blood. Red blood cells, acting as warriors, hold different types of shields representing blood types: O-type (smooth), A-type (spiky), and B-type (round bumps). They are battling terrifying monstrous ancient pathogens like Malaria and Cholera. Evolutionary defense mechanism, immune system fantasy battle, highly detailed.
+
+142. 【ID: 171】盲腸（虫垂）の真実
+テーマ: 不要なゴミ箱から、腸内細菌の「シェルター」へ。奇跡の免疫器官。
+ファイル名: `171.png`
+イラストのイメージ: 
+大腸の端にある「盲腸（虫垂）」の内部。そこは、人間を助ける善玉の「腸内細菌たち」の秘密の地下シェルターになっている。外の世界（大腸）が下痢などで荒れ狂って細菌が洗い流されても、シェルターの扉が閉まって彼らを守り、嵐が過ぎ去った後に再び腸内を復興しに出発する勇敢な姿。
+参考プロンプト: Inside the human appendix (attached to the large intestine). It is depicted as a high-tech secret underground shelter for good gut bacteria. While a chaotic storm (representing diarrhea) rages outside in the intestine washing everything away, the good bacteria are safely hiding behind a blast door in the appendix, ready to emerge and rebuild the gut flora later. Medical biology, microscopic sci-fi, highly detailed.
+
+143. 【ID: 172】涙の味は感情で変わる
+テーマ: 悲しい時の涙と、怒った時の涙。自律神経がコントロールする科学。
+ファイル名: `172.png`
+イラストのイメージ: 
+人間の瞳のアップ。右目からは「悲しみ」でサラサラした甘めの薄い涙がこぼれ、背景には青い副交感神経の光。左目からは「怒り」でナトリウム濃度が高くしょっぱい、ドロっとした涙がこぼれ、背景には赤い交感神経の炎が燃え上がっている、感情と味覚の化学的対比。
+参考プロンプト: A close-up of a human face showing both eyes. The right eye sheds watery, slightly sweet tears of 'sadness', illuminated by the calming blue light of the parasympathetic nervous system. The left eye sheds thick, highly salty tears of 'anger', illuminated by the fiery red light of the sympathetic nervous system. The chemical difference in tears based on emotion, highly detailed.
+
+144. 【ID: 173】夢を見る理由
+テーマ: 脳が記憶を整理し、未来のシミュレーションを行う「夜の映画館」。
+ファイル名: `173.png`
+イラストのイメージ: 
+眠っている人間の脳の中。そこは小さな映画館になっており、無数の「記憶のフィルム」が散乱している。小さな作業員（脳細胞）たちが、フィルムを切り貼りして「明日の失敗を防ぐためのシミュレーション映画（＝夢）」をスクリーンに映し出している、無意識下の深夜労働。
+参考プロンプト: Inside a sleeping human brain. It is depicted as a miniature, magical movie theater. Countless film reels representing 'memories' are scattered around. Tiny workers (brain cells) are actively cutting and splicing the film together, projecting a surreal 'simulation movie' (a dream) onto the screen to prepare for future events. The science of dreaming, surrealism, highly detailed.
+
+145. 【ID: 174】胃液は金属も溶かす
+テーマ: なぜ自分自身の胃袋は溶けないのか？ 奇跡のリフォーム。
+ファイル名: `174.png`
+イラストのイメージ: 
+胃の中の過酷な世界。胃液のプールに落ちたカミソリの刃や鉄の釘が、シュワシュワと溶けていくほどの強酸性（塩酸）の環境。しかし、胃の壁面では、小さな作業員たちが必死に「粘液のバリアバリア」を塗り続け、さらに古い壁を剥がして新しい壁を3日ごとに張り替える超高速リフォームを行っている。
+参考プロンプト: Inside the harsh environment of a human stomach. A razor blade and iron nails are dissolving and bubbling in a highly acidic pool of stomach acid. However, along the stomach walls, tiny worker cells are frantically painting a protective 'mucus barrier' and constantly ripping off old wall tiles to replace them with new ones every 3 days. Biology, microscopic construction site, highly detailed.
+
+146. 【ID: 175】あくびがうつる理由
+テーマ: 共感能力が高い人ほど伝染しやすい？ 霊長類の進化が残した同調行動。
+ファイル名: `175.png`
+イラストのイメージ: 
+電車の中。一人の人が大きなあくびをしている。その口から出た目に見えない「あくびの電波（Wi-Fiのような波紋）」が、周囲の乗客の脳の「ミラーニューロン」にピピッと受信され、次々とドミノ倒しのように周囲の人々があくびを連鎖させていく、脳のハッキング現象の視覚化。
+参考プロンプト: Inside a train car. One person is yawning widely. Invisible 'yawn radio waves' (like Wi-Fi ripples) emit from their mouth and are intercepted by the glowing 'mirror neurons' in the brains of the surrounding passengers. Like falling dominoes, the other passengers helplessly begin to yawn as their brains are hacked by empathy. The science of contagious yawning, highly detailed.
+
+147. 【ID: 176】髪の毛の強さ
+テーマ: 全頭を束ねれば「アフリカ象」をも吊り上げる驚異の天然繊維。
+ファイル名: `176.png`
+イラストのイメージ: 
+サーカスのテントの中。空中ブランコの代わりに、一人の女性の豊かで強靭な「髪の毛」が天井から太いロープのように束ねられてぶら下がっている。そしてなんと、その髪の毛の先には、巨大なアフリカ象が宙吊りにされて持ち上げられているという、物理学的な事実を視覚化したファンタジー。
+参考プロンプト: Inside a grand circus tent. Instead of a trapeze, a woman's thick, incredibly strong hair is bundled together like a thick rope hanging from the ceiling. Astonishingly, a massive, full-grown African elephant is suspended in mid-air, lifted entirely by the strength of her hair. Visualizing the tensile strength of human hair, surreal physics, highly detailed.
+
+148. 【ID: 177】笑いの健康効果
+テーマ: 1分間の大笑いは「10分間のボート漕ぎ」と同じ運動量？
+ファイル名: `177.png`
+イラストのイメージ: 
+テレビを見て大爆笑している人。その体内（血管の中）では、笑いの振動によって「NK（ナチュラルキラー）細胞」という警察官のキャラクターたちが目を覚まし、武器を持ってガン細胞やウイルスをバタバタと退治していく。笑いがもたらす最強の免疫力アップの瞬間。
+参考プロンプト: A person laughing uncontrollably while watching TV. Inside their bloodstream, the vibrations from the laughter act like an alarm, awakening 'Natural Killer (NK) cells' depicted as tiny, heavily armed police officers. They rush out and aggressively destroy terrifying cancer cells and viruses. The healing power of laughter, immune system visualization, highly detailed.
+
+149. 【ID: 178】ノセボ効果
+テーマ: 思い込みだけで体に発疹が出る？ 心が肉体を攻撃する「負のプラシーボ」。
+ファイル名: `178.png`
+イラストのイメージ: 
+ただの葉っぱ（毒性はない）を「漆（うるし）」だと勘違いして触ってしまった人物。彼の脳内で「これは猛毒だ！」という赤いアラートが鳴り響き、物理的な毒は一切ないにもかかわらず、脳からの命令だけで腕の皮膚にリアルな赤い発疹や水ぶくれが浮かび上がってくる恐ろしい心の力。
+参考プロンプト: A person accidentally touching a completely harmless leaf, but mistakenly believing it is highly poisonous poison ivy. Inside their brain, a red 'DANGER' alarm is blaring. Due solely to the power of suggestion from the brain, very real, angry red rashes and blisters begin to physically appear on their arm, even though there is no actual poison. The Nocebo effect, psychological horror, highly detailed.
+
+150. 【ID: 179】人間の骨の数
+テーマ: 赤ちゃんの時は300個以上あるのに、大人になると206個に減る理由。
+ファイル名: `179.png`
+イラストのイメージ: 
+赤ちゃんの頭骨と大人の頭骨の対比。赤ちゃんの頭蓋骨は、狭い産道を通るためにヘルメットのようにいくつもの柔らかいパーツ（300個以上の骨）に分かれている。それが成長するにつれて、パズルがくっつくように癒合し、頑丈な一つの大人の骨（206個の骨組み）に合体していくプロセス。
+参考プロンプト: A side-by-side comparison of a baby's skull and an adult's skull. The baby's skull is divided into many soft, separate puzzle pieces (over 300 bones in the body) to pass safely through the birth canal. As it grows into the adult skull, the glowing puzzle pieces fuse together seamlessly to form a solid, rigid structure of 206 bones. Human anatomy, developmental biology, highly detailed.
+
+151. 【ID: 180】「ヤバイ」の起源
+テーマ: 江戸時代の牢屋の隠語が、現代の「最高」に変貌する奇妙な変遷史。
+ファイル名: `180.png`
+イラストのイメージ: 
+江戸時代の薄暗い牢屋敷。泥棒が看守（厄介場・ヤバ）が来るのを見て「ヤバい（危険だ）！」と隠語で怯えている。その声が時空を超えて現代の渋谷の交差点に響き、女子高生たちが美味しいクレープを食べながら笑顔で「これヤバい！（最高！）」と言っている、言葉の意味の180度の逆転劇。
+参考プロンプト: A dim Edo-period prison cell. A thief looks terrified, whispering the criminal slang 'Yabai! (Danger!)' as a stern guard approaches. This scene time-warps directly into a bright, modern Shibuya intersection, where a smiling teenage girl is eating a delicious crepe and happily exclaiming 'Yabai! (Amazing!)'. The 180-degree evolution of a slang word, cultural contrast, highly detailed.

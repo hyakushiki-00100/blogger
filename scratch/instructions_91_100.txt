@@ -1,0 +1,69 @@
+62. 【ID: 91】偽薬（プラセボ）効果
+テーマ: 信じることで脳内に本物の薬の成分が分泌される驚異。
+ファイル名: `91.png`
+イラストのイメージ: 
+医者から渡されたただの砂糖の粒（ピル）を飲む患者。しかし患者の頭の中（または体の中）では、その砂糖粒が黄金に輝く本物の特効薬に変化し、傷や病魔を癒していく魔法のような治癒の光景が広がっている。
+参考プロンプト: A patient taking a simple sugar pill given by a doctor. Inside the patient's body or brain, shown in a magical glowing cross-section, the sugar pill transforms into a golden, powerful medicine that emits a healing light, curing their illness. Placebo effect, magical healing, medical sci-fi, highly detailed.
+
+63. 【ID: 92】ピグマリオン効果
+テーマ: 期待されることで才能が開花する魔法。
+ファイル名: `92.png`
+イラストのイメージ: 
+教師が小さなつぼみの状態の生徒（擬人化された植物のような表現）に、愛情のこもった「期待」という水をジョウロで与えている。水を与えられたつぼみは、一瞬にして見事な大輪の花（才能の開花）へと成長していく、温かく希望に満ちた情景。
+参考プロンプト: A caring teacher watering a small, struggling plant bud that represents a student. The water from the watering can represents 'high expectations' and glows with a warm light. The bud instantly blooms into a magnificent, giant flower representing unlocked potential. Pygmalion effect, educational psychology, magical realism, highly detailed.
+
+64. 【ID: 93】バーナム効果
+テーマ: 誰にでも当てはまる曖昧な言葉を「自分のことだ」と信じ込む心理。
+ファイル名: `93.png`
+イラストのイメージ: 
+薄暗いテントの中で、怪しげな占い師が「あなたは最近悩んでいますね」と書かれただけの白紙の札を群衆に見せている。見ている何十人もの人々が、全員「私のことだ！」と涙を流したり深くうなずいたりしている、少し滑稽で不思議な光景。
+参考プロンプト: A mysterious fortune teller in a dim tent holding up a simple blank card that says 'You have worries'. A crowd of dozens of different people looking at the card are all simultaneously crying or nodding deeply, each mistakenly believing the message is meant specifically for them. Barnum effect, psychological illusion, slightly comical, highly detailed.
+
+65. 【ID: 94】サンクコストバイアス
+テーマ: 損切りができず、沈みゆく泥舟に留まり続ける悲劇。
+ファイル名: `94.png`
+イラストのイメージ: 
+半分沈みかけているボロボロの泥の小舟に乗っている人物。周りには救命浮き輪が浮いているのに、「今までここまで漕いできたのだから！」と必死に穴から入る水をかき出している。後ろの巨大な波に気づかず、無駄な努力を続ける愚かな様子。
+参考プロンプト: A person desperately sitting in a small, rotting mud boat that is half-sinking in the ocean. Even though there are life preservers floating nearby, they refuse to leave, frantically scooping out water because they have 'invested too much'. A giant wave approaches from behind. Sunk cost fallacy, tragic psychological bias, dramatic lighting, highly detailed.
+
+66. 【ID: 95】ダニング＝クルーガー効果
+テーマ: 無知なほど自信満々で、賢いほど自分を疑う知性のパラドックス。
+ファイル名: `95.png`
+イラストのイメージ: 
+「自信の山」を描いた風景。小さな丘の頂上（初心者レベル）で王冠をかぶってふんぞり返る無知な人物。一方、その先にある巨大で険しい山脈（真の熟練）の麓では、賢者が己の無知に気づき、頭を抱えて悩みながら歩みを進めている対比構造。
+参考プロンプト: A landscape showing the 'mountain of confidence'. On a tiny beginner's hill, an ignorant person wearing a paper crown stands proudly, thinking they know everything. Meanwhile, at the base of a massive, treacherous mountain range representing true mastery, a wise scholar holds their head in doubt, realizing how much they don't know. Dunning-Kruger effect, conceptual art, highly detailed.
+
+67. 【ID: 96】認知的不協和
+テーマ: 自分の失敗や矛盾を正当化するために、現実をねじ曲げる心理。
+ファイル名: `96.png`
+イラストのイメージ: 
+高い木の上の美味しそうなブドウを取れなかったキツネ。「あんなブドウは酸っぱいに決まっている」と、自分の心の中でブドウを青黒く腐った毒の実だと思い込もう（脳内で映像を書き換えよう）としている。事実を捻じ曲げる脳のバグ。
+参考プロンプト: A fox that failed to reach delicious, ripe grapes high on a vine. To protect its ego, the fox is actively altering its own memory, imagining the grapes as rotten, sour, and poisonous blue-black berries. The cognitive dissonance of the 'sour grapes' fable, surreal psychological manipulation, highly detailed.
+
+68. 【ID: 97】刷り込み（インプリンティング）
+テーマ: 生まれて初めて見た動くものを親と信じ込む、命の不思議な絆。
+ファイル名: `97.png`
+イラストのイメージ: 
+卵から孵ったばかりの小さなヒナ鳥たちが、最初に目にした「長靴を履いたおじさん（研究者）」を親だと思い込み、一列になって可愛らしく後ろをついて歩いている。研究者の足元に広がる、無条件の愛と自然のプログラム。
+参考プロンプト: A line of tiny, newly hatched baby chicks adorably waddling behind a scientist wearing rubber boots. Because the boots were the first moving thing they saw, they are deeply imprinted, believing the boots are their mother. Imprinting, animal behavior, heartwarming biology, nature photography style, highly detailed.
+
+69. 【ID: 98】パブロフの犬
+テーマ: 条件反射。関係ないはずのサインで体が自動的に動いてしまう。
+ファイル名: `98.png`
+イラストのイメージ: 
+実験室の犬。ベルの音が鳴った瞬間、目の前に食べ物がないのに、脳内に巨大なステーキのホログラムが浮かび上がり、口から滝のようによだれを流している。環境によってハッキングされた動物の意思。
+参考プロンプト: A dog in a laboratory setting. A bell rings, and instantly, a glowing hologram of a giant, juicy steak appears in the dog's mind, causing it to drool profusely like a waterfall even though there is no food. Pavlovian conditioning, hacked biology, cyberpunk elements, highly detailed.
+
+70. 【ID: 99】シュレーディンガーの猫
+テーマ: 箱を開けるまで、生と死が重なり合っている量子の奇妙な世界。
+ファイル名: `99.png`
+イラストのイメージ: 
+半分開いた不思議な量子ボックス。その中には、「元気に生きている猫の半身」と「骨になった死んでいる猫の半身」が、モヤモヤとした量子的な波打ちの中で不気味に融合して存在している。観測される前の重なり合いの視覚化。
+参考プロンプト: A mysterious quantum box slightly open. Inside, a bizarre cat exists in a state of superposition: one half of the cat is alive and energetic, while the other half is a skeletal dead cat, both merging together in a blurry, wavy quantum mist. Schrodinger's cat, quantum mechanics, surreal physics concept art, highly detailed.
+
+71. 【ID: 100】ポテトチップスの誕生
+テーマ: クレーマー客への嫌がらせが生んだ、世界的な大ヒットスナック。
+ファイル名: `100.png`
+イラストのイメージ: 
+19世紀のアメリカの厨房。怒り狂った黒人シェフが、じゃがいもを紙のように限界まで薄く切り、油でカリカリに揚げて嫌がらせの料理を作っている。しかし、出来上がった黄金色のチップスが奇跡的に美味しく輝いている。
+参考プロンプト: A 19th-century American restaurant kitchen. A frustrated African American chef is angrily slicing potatoes paper-thin with a sharp knife and frying them to a crisp as revenge against a complaining customer. However, the resulting golden potato chips are glowing with a miraculous, delicious aura. The invention of potato chips, historical culinary moment, dynamic lighting, highly detailed.

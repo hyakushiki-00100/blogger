@@ -1,0 +1,69 @@
+72. 【ID: 101】ケチャップの起源
+テーマ: トマトではなくアジアの魚醤から始まった意外な歴史。
+ファイル名: `101.png`
+イラストのイメージ: 
+17世紀のアジアの港町。大きな壺に入った茶色い魚醤（魚の塩漬け汁）を西洋人の商人が驚いた顔で味見している。その横には、未来の姿として真っ赤なトマトケチャップのボトルが半透明のシルエットとして浮かび上がっている歴史的対比。
+参考プロンプト: A 17th-century Asian port town. A surprised European merchant is tasting a dark brown fermented fish sauce from a large clay jar. Next to the jar, a translucent, futuristic silhouette of a modern red tomato ketchup bottle is floating. Historical origins, culinary evolution, detailed trading scene, highly detailed.
+
+73. 【ID: 102】カマンベールチーズとナポレオン
+テーマ: ナポレオンが愛した白カビチーズと革命の伝説。
+ファイル名: `102.png`
+イラストのイメージ: 
+フランス革命期の農家。マリー・アレル夫人が作った丸いカマンベールチーズを、軍服姿のナポレオンがうっとりとした顔でキスをして称賛している。背景にはのどかなノルマンディーの牛と牧草地。
+参考プロンプト: A rustic French farmhouse during the revolution era. Emperor Napoleon in his military uniform is closing his eyes in ecstasy, affectionately kissing a round wheel of Camembert cheese made by the farmer Marie Harel. Peaceful Normandy cows and pastures in the background. Historical food legend, warm lighting, highly detailed.
+
+74. 【ID: 103】電子レンジの偶然の発明
+テーマ: レーダー研究とポケットの中の溶けたチョコレート。
+ファイル名: `103.png`
+イラストのイメージ: 
+1940年代の薄暗いレーダー研究室。白衣を着た科学者（パーシー・スペンサー）が、巨大なレーダー装置の前に立っている。彼の白衣のポケットの中で、見えないマイクロ波によってチョコレートバーがドロドロに溶けて流れ出しており、本人はそれに気づいて驚いている。
+参考プロンプト: A dim 1940s radar laboratory. A scientist in a white coat stands in front of a massive, glowing radar machine. Inside his coat pocket, a chocolate bar is melting into a gooey mess caused by invisible microwaves, and he is just noticing it with a look of astonishment. The accidental invention of the microwave, retro-sci-fi, highly detailed.
+
+75. 【ID: 104】コーラの正体
+テーマ: 薬剤師が作った薬から始まった巨大飲料ブランドの原点。
+ファイル名: `104.png`
+イラストのイメージ: 
+19世紀のレトロな薬局。薬剤師がビーカーやフラスコを使って、怪しげな茶色い液体（初期のコーラ）を調合している。その液体の表面から立ち上る泡の中に、現代のポップで爽やかなコーラのボトルのイメージが見え隠れしている。
+参考プロンプト: A retro 19th-century pharmacy. An old pharmacist is mixing a mysterious dark brown liquid (early Coca-Cola) using beakers and flasks. In the bubbling steam rising from the liquid, a vibrant, refreshing image of a modern cola bottle is subtly visible. Origin of cola, historical apothecary, steampunk vibe, highly detailed.
+
+76. 【ID: 105】お寿司の進化
+テーマ: 江戸っ子のせっかちさが生んだ「立ち食いファストフード」。
+ファイル名: `105.png`
+イラストのイメージ: 
+活気ある江戸時代の屋台。急いでいる職人や商人が、立ったまま大きな握り寿司をパクリと一口で食べている。寿司は現代よりも2〜3倍大きくおにぎりのようなサイズで、背景には江戸の賑わいと現代のファストフード店のネオンがオーバーラップしている。
+参考プロンプト: A lively Edo-period street food stall in Japan. Impatient artisans and merchants are eating massive, onigiri-sized nigiri sushi while standing up. The bustling Edo background subtly overlaps with a neon sign of a modern fast-food restaurant. Evolution of sushi, Edo period culture, dynamic composition, highly detailed.
+
+77. 【ID: 106】バニラと人工受粉
+テーマ: 12歳の奴隷少年が発見した、香りの世界を変える奇跡。
+ファイル名: `106.png`
+イラストのイメージ: 
+19世紀の熱帯の農園。麦わら帽子をかぶった12歳の黒人少年（エドモン・アルビウス）が、竹の細い串を使って繊細なバニラの花を人工受粉させている。彼の指先から、金色の魔法の粉（世界中に広がるバニラの香り）が風に乗って舞い上がっている。
+参考プロンプト: A 19th-century tropical plantation. A 12-year-old enslaved Black boy wearing a straw hat is delicately hand-pollinating a vanilla flower using a thin bamboo stick. Magical, golden stardust (representing the world-changing vanilla scent) is swirling into the air from his fingertips. The discovery of vanilla pollination, historical botany, touching and magical, highly detailed.
+
+78. 【ID: 107】ポップコーンと映画館
+テーマ: 世界恐慌を生き延びた、映画館の最強のパートナー。
+ファイル名: `107.png`
+イラストのイメージ: 
+1930年代のクラシックな映画館の入り口。人々が長蛇の列を作っており、手には大きな紙袋に入ったポップコーンを持っている。ポンポンとはじけるポップコーンが、空中で古いモノクロ映画のフィルムのリールに変化していくシュールな光景。
+参考プロンプト: The entrance of a classic 1930s cinema. A long line of people waiting, holding large paper bags of popcorn. Popping popcorn kernels fly into the air and surrealistically transform into reels of vintage black-and-white movie film. The historical bond between popcorn and movies, nostalgic cinema aesthetics, highly detailed.
+
+79. 【ID: 108】ニンジンがオレンジ色になった理由
+テーマ: 王室への忠誠心が変えた、野菜の色の歴史。
+ファイル名: `108.png`
+イラストのイメージ: 
+17世紀のオランダの農場。オランダの王室（オラニエ公）の象徴であるオレンジ色の旗がはためく中、農夫が土の中から「紫」や「黄色」のニンジンと一緒に、真新しい鮮やかな「オレンジ色」のニンジンを引き抜き、誇らしげに空に掲げている。
+参考プロンプト: A 17th-century Dutch farm. An orange flag representing the Dutch Royal House of Orange is waving. A farmer proudly pulls a bright, brand-new orange carrot from the soil, alongside older purple and yellow carrots, holding it up to the sky. The selective breeding of carrots, Dutch history, vibrant colors, highly detailed.
+
+80. 【ID: 109】缶詰の誕生と缶切り
+テーマ: 発明から約50年間「缶切り」がなかった人類の間抜けな空白。
+ファイル名: `109.png`
+イラストのイメージ: 
+19世紀の兵士が、頑丈な分厚い鉄の缶詰を前にして困り果てている。彼はハンマーや銃剣、さらには岩を使って必死に缶をこじ開けようとしているが、なかなか開かない。缶の横には「缶切り未発明」というサイン。
+参考プロンプト: A 19th-century soldier looking frustrated at a heavy, thick iron tin can. He is desperately trying to bash it open using a hammer, a bayonet, and a rock, but it won't budge. A funny historical depiction of the 50-year gap between the invention of the can and the can opener. Humorous historical illustration, highly detailed.
+
+81. 【ID: 110】ラッコのポケット
+テーマ: お気に入りの「マイ石」を脇の下に隠し持つ海の知恵者。
+ファイル名: `110.png`
+イラストのイメージ: 
+海に浮かぶ愛らしいラッコ。胸の上には割れた貝殻があり、脇の下のたるんだ皮膚（ポケット）から、自分のお気に入りのツルツルした「マイ石」を大事そうにそっと取り出している。石が宝石のようにキラキラと輝いている。
+参考プロンプト: An adorable sea otter floating on its back in the ocean. There is a cracked shell on its chest. The otter is gently and protectively pulling its favorite, smooth 'personal rock' out from a baggy pocket of skin under its armpit. The rock sparkles like a precious gem. Animal intelligence, cute marine life, nature illustration, highly detailed.

@@ -1,0 +1,209 @@
+242. 【ID: 241】ピカソのフルネーム
+テーマ: 長すぎて本人も覚えていなかった？ 「パブロ・ディエゴ…」から始まる呪文のような本名。
+ファイル名: `241.png`
+イラストのイメージ: 
+若き日のピカソが、大きなキャンバスの右下にサインを書こうとしている。しかし、フルネーム（パブロ・ディエゴ・ホセ・フランシスコ・デ・パウラ・ファン・ネポムセーノ・マリア・デ・ロス・レメディオス・クリスピン・クリスピニャーノ・デ・ラ・サンティシマ・トリニダード・ルイス・イ・ピカソ）が長すぎて、キャンバスからはみ出し、床や壁にまで呪文のようにズラズラと名前が書き連ねられているコミカルな光景。
+参考プロンプト: A young Pablo Picasso trying to sign his name in the bottom right corner of a large canvas. However, his full real name is so absurdly long that the glowing text spills off the canvas, wrapping around the floor and walls of his studio like a magical spell. Picasso looks confused, holding a long brush. Comical art history, highly detailed.
+
+243. 【ID: 242】ゴッホの耳切り事件の真相
+テーマ: 親友ゴーギャンとの共同生活のストレスで限界を迎え、自らの耳を切り落とした天才。
+ファイル名: `242.png`
+イラストのイメージ: 
+「黄色い家」の狭い部屋。キャンバスに向かうゴッホと、彼を背後から厳しい目で見下ろすゴーギャン。二人の間には、表現の違いによる「バチバチとした青い稲妻（対立）」が走っている。ゴッホの頭の上には、ストレスで今にも爆発しそうな「圧力鍋」のイメージが浮かんでおり、天才同士の破滅的な共同生活のプレッシャーを描く。
+参考プロンプト: Inside the small room of the 'Yellow House'. Vincent van Gogh is passionately painting, while Paul Gauguin stands behind him, glaring critically. Visible blue lightning bolts of tension and artistic conflict crackle between them. Above van Gogh's head is a ghostly image of a pressure cooker about to violently explode, symbolizing his breaking mental state. Intense psychological drama, highly detailed.
+
+244. 【ID: 243】夏目漱石の甘党伝説
+テーマ: 胃弱なのにジャムを瓶ごと舐め回し、医者に止められてもアイスクリームを爆食いした文豪。
+ファイル名: `243.png`
+イラストのイメージ: 
+和室の書斎で「吾輩は猫である」の原稿を書いている夏目漱石。しかし彼の右手は筆ではなく、スプーンを持っており、大きなイチゴジャムの瓶から直接ジャムをすくって幸せそうに舐めている。彼の背後には、彼を心配そうに見つめる「一匹の猫」と、お腹を押さえて胃薬を持った「もう一人の漱石の幽霊（胃弱）」が立っている。
+参考プロンプト: The great Japanese author Natsume Soseki sitting in a traditional tatami study room, writing a manuscript. However, instead of a brush, he holds a spoon, happily eating strawberry jam straight out of a large glass jar. Behind him, a cat watches him with concern, and a ghostly version of Soseki is clutching his stomach in pain holding stomach medicine. Comical historical literary figure, highly detailed.
+
+245. 【ID: 244】太宰治の芥川賞への執着
+テーマ: どうしても賞が欲しくて、選考委員の川端康成に「刺す」と脅迫めいた手紙を送ったクズっぷり。
+ファイル名: `244.png`
+イラストのイメージ: 
+深夜の薄暗い部屋。髪を振り乱した太宰治が、血走った目で川端康成（選考委員）宛ての手紙を書き殴っている。手紙の文字からは「芥川賞をくれ！刺すぞ！」という怨念が黒いモヤ（または鋭いナイフの幻影）となって立ち上っている。天才作家の人間らしい醜い執着心と狂気。
+参考プロンプト: A dim room late at night. The author Osamu Dazai, looking disheveled and desperate with bloodshot eyes, is furiously writing a letter to the Akutagawa Prize committee judge, Yasunari Kawabata. Dark, ominous smoke shaped like sharp knives rises from the aggressive words on the paper ('Give me the prize or I'll stab you!'). Literary madness, psychological obsession, highly detailed.
+
+246. 【ID: 245】アーネスト・ヘミングウェイの猫愛
+テーマ: マッチョな狩猟家に見えて、実は「6本指の猫」を溺愛していた重度の愛猫家。
+ファイル名: `245.png`
+イラストのイメージ: 
+巨大なライフル銃を背負い、サファリ服を着た屈強でマッチョなヘミングウェイ。しかし彼の腕の中には、彼がデレデレの笑顔で抱きしめている「6本指の小さな猫」がいる。無骨な部屋の中には、何十匹もの猫がキャットタワーで遊んでいるという、タフガイと猫の微笑ましいギャップ。
+参考プロンプト: A rugged, macho Ernest Hemingway wearing safari clothes and a large hunting rifle slung over his back. However, his face shows a soft, goofy smile as he affectionately cuddles a tiny, six-toed kitten in his strong arms. The background room is surprisingly filled with cute cat towers and dozens of playing cats. Macho man and cats, humorous contrast, highly detailed.
+
+247. 【ID: 246】ダリのペット
+テーマ: アリクイを散歩させ、オセロットを高級レストランに連れて行く、狂気を「演じた」シュルレアリスト。
+ファイル名: `246.png`
+イラストのイメージ: 
+1960年代のパリの優雅な大通り。あの特徴的なピンと跳ねたヒゲのサルバドール・ダリが、ステッキを持ち、リードを引いて「巨大なアリクイ」を散歩させている。すれ違う上品なパリジャンたちが、あまりの奇行に目を丸くして驚いている、シュルレアリスムを地で行く風景。
+参考プロンプト: An elegant Parisian boulevard in the 1960s. The surrealist artist Salvador Dalí, with his iconic pointed mustache and a walking cane, is casually walking a giant anteater on a leash. Passing sophisticated Parisians are staring with wide-eyed shock and confusion. Surrealism in real life, eccentric artist, highly detailed.
+
+248. 【ID: 247】ドストエフスキーのギャンブル依存
+テーマ: ルーレットで全財産を擦り、妻の服まで質に入れて『賭博者』を書き上げた狂気の沙汰。
+ファイル名: `247.png`
+イラストのイメージ: 
+カジノのルーレット台。文豪ドストエフスキーが、狂ったような目でルーレットの玉を見つめ、大量の札束やコインだけでなく、妻の「ドレス」や「指輪」、さらには自分の「小説の原稿」までを賭けのテーブルに投げ出している。ギャンブルの沼に落ちていく天才の破滅的な姿。
+参考プロンプト: A luxurious European casino roulette table. The great Russian author Dostoevsky is staring at the spinning roulette wheel with a mad, addicted look in his eyes. He is pushing not just money, but his wife's elegant dresses, her jewelry, and his own handwritten novel manuscripts onto the betting table. The destructive madness of gambling addiction, dramatic lighting, highly detailed.
+
+249. 【ID: 248】モネの睡蓮と白内障
+テーマ: 晩年の名作があんなにぼやけているのは、彼の目が白内障で本当にそう見えていたから。
+ファイル名: `248.png`
+イラストのイメージ: 
+睡蓮の池の前でキャンバスに向かう老齢のクロード・モネ。彼の右目（健康な頃の視点）を通して見た池は、鮮やかでくっきりとした青と緑。しかし彼の左目（白内障の視点）を通して見た池は、全体が赤や黄色に濁り、輪郭が完全にぼやけた抽象画のような世界になっている、視覚の対比図。
+参考プロンプト: The elderly Claude Monet painting his water lilies pond. A split-screen visual representing his vision: The left side shows the pond through healthy eyes (vibrant, clear blues and greens). The right side shows the pond through his cataract-afflicted eyes (muddy, blurred, deeply reddish-yellow, looking almost like an abstract painting). Art history, medical reality, highly detailed.
+
+250. 【ID: 249】宮沢賢治のベジタリアン
+テーマ: 理想を追い求めすぎて栄養失調になり、最後は親の金で高級レコードを買い漁ったドラ息子？
+ファイル名: `249.png`
+イラストのイメージ: 
+質素な農村の小屋。宮沢賢治が「雨ニモマケズ」の世界を体現するように、一杯の玄米と少しの野菜だけの粗末な食事をしている。しかし、その質素な食卓のすぐ横には、親の仕送りで買った「超高級な蓄音機」と「西洋のクラシックレコードの山」が積まれているという、理想と現実の少し人間臭い矛盾。
+参考プロンプト: A humble, rural Japanese hut. The author Kenji Miyazawa is eating an extremely meager vegetarian meal of brown rice and a few vegetables. However, sitting right next to this humble table is a massively expensive, state-of-the-art imported gramophone and towering stacks of high-end Western classical music records bought with his wealthy parents' money. The contradictory life of an idealist, highly detailed.
+
+251. 【ID: 250】ヴィクトル・ユゴーの執筆法
+テーマ: 服を着ていると遊びに出かけたくなるので、全裸になって召使いに服を隠させて小説を書いた。
+ファイル名: `250.png`
+イラストのイメージ: 
+19世紀の豪華な書斎。文豪ヴィクトル・ユゴーが「全裸」の上に毛布だけを被り、ガタガタ震えながらも猛烈な勢いで『ノートルダムの鐘』の原稿を書いている。ドアの隙間からは、彼の服の束を抱えた召使いが「旦那様、原稿が終わるまで服はお返ししませんよ」と覗き見しているコミカルな状況。
+参考プロンプト: A luxurious 19th-century French study room. The famous author Victor Hugo is completely naked, wrapped only in a large woolen blanket, shivering but writing a manuscript furiously at his desk. Through the slightly open door, his servant is peeking in, holding all of Hugo's clothes hostage to prevent him from going out to party. Humorous literary history, highly detailed.
+
+252. 【ID: 251】ベートーヴェンの引っ越し魔
+テーマ: ウィーンで79回も引っ越し。部屋が汚すぎて追い出されたり、壁に楽譜を書き殴ったせい。
+ファイル名: `251.png`
+イラストのイメージ: 
+ウィーンのアパート。大家さんが激怒してベートーヴェンを追い出している。部屋の中はゴミだらけで、グランドピアノの下には未洗いの皿が散乱し、あろうことか「部屋の壁一面」にインクで真っ黒になるほど交響曲の楽譜が直接書き殴られている。ベートーヴェンは気まずそうに荷物をまとめている。
+参考プロンプト: An apartment in Vienna. An angry landlord is kicking Beethoven out. The room is a complete disaster: unwashed plates under the grand piano, garbage everywhere, and shockingly, an entire symphony is written directly onto the wallpaper in messy black ink. Beethoven is awkwardly packing his bags. The chaotic life of a musical genius, highly detailed.
+
+253. 【ID: 252】モーツァルトの下ネタ好き
+テーマ: ウンコやオナラをテーマにした曲を大真面目に作曲していた、永遠の小学生。
+ファイル名: `252.png`
+イラストのイメージ: 
+優雅な宮廷の音楽室。モーツァルトが、カツラを被り正装して、美しい合唱団に神聖な曲の指導をしている。しかし、配られた楽譜をよく見ると、タイトルに「俺の尻をなめろ（Leck mich im Arsch）」と書かれており、合唱団の貴族たちが顔を真っ赤にして困惑している、天才の悪ふざけ。
+参考プロンプト: An elegant royal music room. Mozart, dressed formally in a wig, is seriously conducting a choir of nobles in what sounds like a divine masterpiece. However, a close-up of the sheet music held by a blushing, deeply confused noble reveals the title 'Leck mich im Arsch' (Lick my a**). The childish, scatological humor of a musical genius. Highly detailed.
+
+254. 【ID: 253】バッハの牢屋生活
+テーマ: 転職を引き止められ、怒って雇用主に逆らった結果、約1ヶ月間も投獄されていた音楽の父。
+ファイル名: `253.png`
+イラストのイメージ: 
+暗く冷たい石造りの牢屋。音楽の父と呼ばれるJ.S.バッハが、鉄格子の奥で不貞腐れて座っている。しかし彼は時間を無駄にせず、牢屋の壁に五線譜を引き、羽ペンで後の名曲となる「オルガン小曲集」の構想を黙々と書き連ねている。逆境でも音楽を生み出す不屈の精神。
+参考プロンプト: A cold, dark stone prison cell in the 18th century. 'The Father of Music', J.S. Bach, is locked behind iron bars, looking slightly annoyed. Unbothered by his imprisonment, he has drawn musical staves on the prison wall and is furiously composing his masterpiece 'Orgelbüchlein' using a quill pen. Artistic resilience in captivity, highly detailed.
+
+255. 【ID: 254】ショパンの極度のあがり症
+テーマ: 人前で演奏するのが大の苦手で、暗い部屋でごく少数の友人の前でしか弾きたがらなかった。
+ファイル名: `254.png`
+イラストのイメージ: 
+巨大なコンサートホールの舞台裏。ピアノの詩人ショパンが、ステージからの強烈な光と大勢の観客のざわめきに怯え、ガタガタ震えて柱にしがみついている。彼の頭の中には、スポットライトが「巨大な目玉」のように見え、観客が彼を評価する恐ろしい怪物に見えているプレッシャーの視覚化。
+参考プロンプト: Backstage at a massive concert hall. The 'Poet of the Piano', Frédéric Chopin, is trembling with severe stage fright, clinging to a pillar. Through his terrified perspective, the bright stage spotlight looks like a giant, glaring monster's eye, and the audience murmurs sound like a terrifying beast. Visualizing extreme performance anxiety, psychological, highly detailed.
+
+256. 【ID: 255】ワーグナーの借金踏み倒し
+テーマ: パトロンから金を借りては逃げ、友人の妻を寝取る……人間性は最悪だが音楽は至高の男。
+ファイル名: `255.png`
+イラストのイメージ: 
+夜逃げの準備をするワーグナー。彼は大量の高価なシルクの服とパトロンから借りた金貨をトランクに詰め込み、窓からこっそり逃げ出そうとしている。しかしその背景には、神々しいワルキューレ（北欧神話の女神）が荘厳な音楽と共に舞い降りる幻想が広がっており、「クズな人間性」と「神がかった音楽的才能」の強烈なコントラスト。
+参考プロンプト: The composer Richard Wagner sneaking out of a window at night to escape his debts. He is stuffing a trunk with expensive silk clothes and borrowed gold coins, looking like a total scoundrel. However, in the background, a breathtaking, divine vision of Valkyries descending from the heavens amidst glorious music is unfolding. The stark contrast between a terrible personality and divine musical genius. Highly detailed.
+
+257. 【ID: 256】チャイコフスキーのあご恐怖症
+テーマ: 指揮をする時、「頭がもげて落ちるのではないか」という謎の恐怖から、左手でアゴを押さえていた。
+ファイル名: `256.png`
+イラストのイメージ: 
+オーケストラを指揮するチャイコフスキー。彼は右手でタクトを激しく振っているが、左手は必死に自分の「あご（または首）」をガッチリと下から支えている。彼の脳内の幻覚として、指揮の勢いで自分の頭が「ポーン」とボールのように飛んでいってしまう恐ろしい光景が半透明で描かれている。
+参考プロンプト: The composer Tchaikovsky conducting a passionate symphony. He is waving his baton fiercely with his right hand, but his left hand is desperately holding up his own chin. A translucent thought-bubble above shows his irrational, terrifying hallucination: his head snapping off and flying into the orchestra like a bowling ball due to the vigorous conducting. Psychological quirk, highly detailed.
+
+258. 【ID: 257】リストは元祖アイドル
+テーマ: ピアノを弾くだけで女性が失神し、彼が投げた葉巻の吸い殻を女性たちが奪い合った狂乱の時代。
+ファイル名: `257.png`
+イラストのイメージ: 
+19世紀のコンサートサロン。超絶イケメンのピアニスト、フランツ・リストが、髪を振り乱して激しくピアノを弾いている。最前列の貴婦人たちは目をハートにしてバタバタと失神して倒れている。彼がポイッと捨てた「葉巻の吸い殻」に、ドレスを着た女性たちがプロレスのように群がって奪い合っている熱狂の光景（リストマニア）。
+参考プロンプト: A 19th-century concert salon. The incredibly handsome and charismatic pianist Franz Liszt is playing passionately, his long hair flying. Noblewomen in the front row are fainting and swooning with heart-eyes. Liszt casually tosses a cigar butt, and a group of elegant women in dresses brutally wrestle each other on the floor to claim it as a souvenir. The original pop idol 'Lisztomania', highly detailed.
+
+259. 【ID: 258】サティの奇行
+テーマ: 生涯で同じ形のベルベットのスーツを7着買い、それだけを着回し続けた「家具の音楽」の生みの親。
+ファイル名: `258.png`
+イラストのイメージ: 
+エリック・サティのクローゼットの中。全く同じ色、全く同じ形、全く同じ素材（グレーのベルベット）のスーツが、ハンガーに「7着」だけ綺麗に並んでいる。サティ本人が、真面目な顔で「今日はどれを着ようかな」と全く同じスーツを選んでいる、シュールでミニマリストすぎる天才の日常。
+参考プロンプト: Inside the closet of the eccentric composer Erik Satie. Hanging perfectly in a row are exactly seven identical gray velvet suits, completely indistinguishable from each other. Satie himself stands in front of them with a serious, thoughtful expression, pondering 'Which one should I wear today?'. The surreal minimalism of a musical pioneer, highly detailed.
+
+260. 【ID: 259】ハイドンのイタズラ
+テーマ: オーケストラの演奏中に観客が寝るのに腹を立て、いきなり爆音を鳴らす『驚愕』を作曲。
+ファイル名: `259.png`
+イラストのイメージ: 
+コンサートホール。貴族の観客たちが、静かで退屈な演奏（第一主題）にうとうとと船を漕いで眠っている。指揮者のハイドンがニヤリと笑い、タクトを振り下ろした瞬間、ティンパニと全楽器が「ドカーン！」と爆発のような大音量を鳴らす。驚いた貴族たちが椅子から飛び上がり、カツラが宙に舞っているイタズラ成功の瞬間。
+参考プロンプト: A classical concert hall. Aristocratic audiences in powdered wigs are dozing off and falling asleep during a quiet, gentle melody. The composer Haydn smiles mischievously and gives a sharp cue. Suddenly, the entire orchestra and timpani blast a deafening, explosive chord. The sleeping nobles jump out of their seats in pure terror, their wigs flying into the air. The 'Surprise Symphony', comedic history, highly detailed.
+
+261. 【ID: 260】シューベルトのメガネ
+テーマ: 寝る時もメガネを外さなかった。理由は「いつでもすぐに作曲に取り掛かれるように」。
+ファイル名: `260.png`
+イラストのイメージ: 
+暗いベッドルーム。シューベルトがベッドで寝ているが、顔には丸メガネをしっかりとかけたままである。彼の夢の中で「美しいメロディ（光り輝く音符）」が浮かんだ瞬間、彼はガバッと跳ね起き、暗闇の中でもメガネのおかげで即座に枕元の羽ペンを握り、楽譜に音符を書き留める準備ができている。
+参考プロンプト: A dark bedroom. The composer Franz Schubert is fast asleep in his bed, but he is still wearing his round spectacles. In his dream, glowing musical notes appear. Suddenly, he bolts upright, his eyes wide open behind his glasses, instantly grabbing a quill pen on his nightstand to write down the melody before he forgets it. The obsession of a composer, highly detailed.
+
+262. 【ID: 261】坂本龍馬は日本初の新婚旅行者？
+テーマ: 実は妻のお龍と一緒に、寺田屋事件の傷を癒すために温泉旅行に行っただけ。
+ファイル名: `261.png`
+イラストのイメージ: 
+鹿児島（薩摩）の霧島温泉。坂本龍馬が、包帯を巻いた手（寺田屋事件の刀傷）で温泉に浸かり「あ〜、傷が痛いぜよ」と療養している。その横で、妻のお龍が背中を流している。後世の人々がそれを「日本初のハネムーンだ！」とロマンチックなピンク色のハートの枠で囲って見ている、現実と伝説のギャップ図。
+参考プロンプト: Kirishima hot springs in Kagoshima. The samurai Sakamoto Ryoma is soaking in the water, looking tired, with heavy bandages on his hands from a recent assassination attempt sword fight. His wife Oryo is gently washing his back for medical recovery. A floating, romantic pink heart frame surrounds them, labeled by future historians as 'Japan's First Honeymoon', highlighting the gap between medical leave and romance. Highly detailed.
+
+263. 【ID: 262】西郷隆盛の犬とダイエット
+テーマ: メタボで医者に「歩け」と言われ、愛犬を連れてウサギ狩りを始めたのがあの銅像の姿。
+ファイル名: `262.png`
+イラストのイメージ: 
+上野公園にある有名な「犬を連れた西郷隆盛の銅像」。しかしその銅像の土台の中が透けて見えており、そこにはドイツ人医師ホフマンが「西郷さん、太り過ぎです！犬の散歩でダイエットしなさい！」とカルテを見せて怒っている様子が描かれている。銅像の真実はただのダイエット中のオジサンだったという面白さ。
+参考プロンプト: The famous bronze statue of Saigo Takamori and his dog in Ueno Park. However, a cutaway view inside the statue's pedestal reveals the historical truth: a German doctor (Theodor Hoffmann) angrily pointing at a medical chart, yelling 'Saigo, you are too fat! Walk your dog to lose weight!'. The legendary samurai was actually just doing doctor-ordered cardio. Comical historical truth, highly detailed.
+
+264. 【ID: 263】勝海舟の犬恐怖症
+テーマ: 子供の頃に犬に急所を噛み切られそうになり、それ以来、犬を見るだけで震え上がっていた幕臣。
+ファイル名: `263.png`
+イラストのイメージ: 
+江戸城の無血開城を成し遂げた、威風堂々たる幕臣・勝海舟。彼が腕を組んでカッコよく立っているが、足元に小さな可愛い「子犬」がトコトコと寄ってきた瞬間、顔面を真っ青にして「ヒィィ！」と悲鳴を上げ、西郷隆盛の背中に隠れてガクガク震えている可愛らしい弱点。
+参考プロンプト: The dignified and legendary samurai statesman Katsu Kaishu standing proudly. Suddenly, a tiny, adorable, fluffy puppy trots up to his feet. The great statesman's face turns pale blue in pure terror. He shrieks and cowers behind his rival Saigo Takamori, shivering uncontrollably. The historical phobia of a great man, humorous contrast, highly detailed.
+
+265. 【ID: 264】土方歳三のモテ自慢
+テーマ: 京都でモテまくった恋文の束をわざわざ実家に送りつけ、「俺はこんなにモテる」と自慢した鬼の副長。
+ファイル名: `264.png`
+イラストのイメージ: 
+新選組の「鬼の副長」土方歳三が、京都で血塗られた刀を持ち、恐ろしい顔で隊士を指導している。しかしその横で、彼の実家（多摩）の家族が、土方から送られてきた木箱を開けている。中からは、芸者たちからの大量の「ラブレター（恋文）」が山のように溢れ出し、家族が「歳三のやつ、何を自慢してるんだ…」と呆れている。
+参考プロンプト: The 'Demon Vice-Commander' of the Shinsengumi, Hijikata Toshizo, looking terrifying with a bloody sword in Kyoto. Meanwhile, a split-screen shows his family back in his rural hometown opening a large wooden crate he sent them. Instead of war spoils, a massive avalanche of perfumed love letters from Kyoto geishas pours out. His family looks completely exasperated at his boasting. Handsome warrior's vanity, highly detailed.
+
+266. 【ID: 265】伊藤博文の女好き
+テーマ: 芸者遊びが激しすぎて明治天皇にガチ説教されるも、「こればかりは辞められません」と開き直った初代首相。
+ファイル名: `265.png`
+イラストのイメージ: 
+明治天皇が、初代総理大臣の伊藤博文に対して「少しは女遊びを控えなさい」と厳しい顔で説教をしている。伊藤博文は平伏しているが、顔を上げて「こればかりは辞められません！」と満面の笑みでウインクして開き直っている。天皇もあまりの堂々たる態度にため息をついて呆れている様子。
+参考プロンプト: Emperor Meiji sternly scolding his first Prime Minister, Ito Hirobumi, for his excessive partying with geishas. Ito is bowing on the floor, but he looks up with a massive, unrepentant grin and winks, proudly declaring 'I simply cannot quit women, Your Majesty!'. The Emperor facepalms in disbelief at the Prime Minister's complete lack of shame. Political history, comical interaction, highly detailed.
+
+267. 【ID: 266】福沢諭吉の酒乱伝説
+テーマ: 禁酒のために「ビールは酒ではなく薬だ」と屁理屈をこねてビールを飲みまくった一万円札の顔。
+ファイル名: `266.png`
+イラストのイメージ: 
+「学問のすすめ」を書いた真面目な教育者、福沢諭吉（一万円札の顔）。彼が「禁酒」と書かれた掛け軸の前で、ジョッキに入った大量のビールをラッパ飲みしている。彼の周りには「これは酒ではない！苦い胃薬である！」という屁理屈の吹き出しが出ており、酔っ払って千鳥足になっているコミカルな姿。
+参考プロンプト: The serious educator Fukuzawa Yukichi (the face of the 10,000 yen bill). He is standing in front of a scroll that says 'Total Abstinence from Alcohol'. However, he is aggressively chugging a massive glass mug of beer. A thought bubble shows his ridiculous excuse: 'This is not alcohol! It is bitter European stomach medicine!'. He is visibly drunk and staggering. The funny flaws of historical figures, highly detailed.
+
+268. 【ID: 267】徳川慶喜の多趣味
+テーマ: カメラ、自転車、油絵……大政奉還の後は政治に一切口を出さず、趣味に生きた最後の将軍。
+ファイル名: `267.png`
+イラストのイメージ: 
+最後の将軍・徳川慶喜。彼はちょんまげ（または散切り頭）の和装姿だが、刀の代わりに「巨大なアンティークカメラ」を構え、背中には「油絵のキャンバス」、乗っているのは「最新式の自転車」という、明治時代の超絶趣味人（インフルエンサー）のような自由を謳歌するファンキーな姿。
+参考プロンプト: The last Shogun, Tokugawa Yoshinobu, wearing traditional Japanese clothing. However, instead of a samurai sword, he is holding a massive, antique wooden camera. Strapped to his back is an oil painting canvas, and he is riding an early model bicycle. He looks completely carefree and happy, enjoying a wealthy retirement dedicated purely to modern hobbies. The ultimate influencer of the Meiji era, highly detailed.
+
+269. 【ID: 268】新選組の局中法度
+テーマ: 実は近藤勇や土方歳三が作ったのではなく、後世のフィクションから逆輸入された可能性が高い？
+ファイル名: `268.png`
+イラストのイメージ: 
+新選組の屯所。「切腹」と書かれた厳しいルール「局中法度」の巻物を読む近藤勇。しかしその巻物を近藤に渡しているのは、昭和の時代の「時代小説の小説家（子母澤寛など）」の幽霊。歴史上の事実ではなく、後世のエンタメ作家が作り上げたカッコいい設定が、歴史として定着してしまったというメタ的な構造。
+参考プロンプト: The Shinsengumi headquarters. Commander Kondo Isami is sternly reading the famous 'Kyokuchu Hatto' (the strict code of conduct demanding seppuku). However, the scroll is actually being handed to him by the ghost of a 20th-century historical fiction novelist holding a modern fountain pen. Visualizing how compelling fiction often rewrites actual history. Meta-history, highly detailed.
+
+270. 【ID: 269】渋沢栄一のパリ万博
+テーマ: フランスで初めて「エレベーター」に乗り、そのハイテクさに感動した日本の資本主義の父。
+ファイル名: `269.png`
+イラストのイメージ: 
+1867年のパリ万博。ちょんまげに袴姿の若き日の渋沢栄一が、最先端の蒸気（または水圧）エレベーターの箱に乗って上へ昇っていく。彼は「箱が勝手に空を飛んだ！」と目を皿のようにして驚き、手帳に猛烈な勢いでメモを取っている。この感動が、後の近代日本を作る原動力となる光り輝く瞬間。
+参考プロンプト: The 1867 Paris Exposition. A young Shibusawa Eiichi, wearing a traditional samurai topknot and hakama, is riding inside a state-of-the-art 19th-century hydraulic elevator. As the box lifts him into the air, his eyes are wide with absolute shock and wonder, furiously taking notes in a small book. The inspiring moment of technological shock that helped build modern Japan's capitalism. Steampunk vibes, highly detailed.
+
+271. 【ID: 270】ジョン万次郎のABC
+テーマ: 英語の「Water」を「わら」と書き残した。耳で聞いた生の英語をそのまま日本語にした天才肌。
+ファイル名: `270.png`
+イラストのイメージ: 
+アメリカの捕鯨船の上。漁師のジョン万次郎が、アメリカ人の船員から水の入ったコップを渡され「Water」と言われている。万次郎の耳には、文字（スペル）ではなく、ネイティブの発音がそのまま「ワラ」というカタカナの音符になって飛び込んでくる。彼はノートに「水＝ワラ」「冷たい＝コール」と嬉しそうに書き留めている。
+参考プロンプト: Aboard an American whaling ship. The Japanese castaway Nakahiro John Manjiro is handed a glass of water by an American sailor who says 'Water'. Instead of English spelling, the native pronunciation enters Manjiro's ears as glowing Japanese katakana characters 'ワラ' (Wara/Wata). He happily writes in his notebook 'Water = Wara', showing his genius phonetic learning. Historical cross-cultural exchange, highly detailed.

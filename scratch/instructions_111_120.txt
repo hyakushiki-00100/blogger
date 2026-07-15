@@ -1,0 +1,69 @@
+82. 【ID: 111】キツツキの脳振盪
+テーマ: 1秒間に20回も頭をぶつけても脳振盪を起こさない、脅威の衝撃吸収構造。
+ファイル名: `111.png`
+イラストのイメージ: 
+木をつつくキツツキの頭部の断面図。くちばしから受けた衝撃が、ヘルメットのように脳を包み込む発達した筋肉と特殊な骨格（舌の骨）によって吸収され、ゼリーのように保護された脳が全く揺れていないメカニズムが、サイバーパンク風の図解で描かれている。
+参考プロンプト: A cross-section diagram of a woodpecker pecking a tree. The impact from the beak is being absorbed by a specialized skull structure and a long tongue bone wrapping around the brain like a built-in shock-absorbing helmet. The brain itself rests safely like jelly. Biomechanics, cybernetic schematic style, highly detailed.
+
+83. 【ID: 112】ゾウの足裏センサー
+テーマ: 数十キロ先の足音を「足の裏」で聴く、ゾウの巨大な通信網。
+ファイル名: `112.png`
+イラストのイメージ: 
+広大なサバンナ。手前にいるゾウが、片足を少し浮かせて地面の振動に神経を集中させている。地面の下では、数十キロ離れた遠くのゾウの群れが歩く振動が、光る波紋のような低周波音（地震波）となって手前のゾウの足の裏に伝わっている。
+参考プロンプト: A vast savanna landscape. A large elephant in the foreground is slightly lifting one foot, concentrating on vibrations in the ground. Beneath the soil, glowing rippling seismic waves are traveling from a distant herd of elephants dozens of kilometers away, reaching the foreground elephant's sensitive foot. Animal communication, nature's hidden network, highly detailed.
+
+84. 【ID: 113】クラゲの若返り
+テーマ: 寿命を迎えると赤ちゃんに戻る、不老不死のベニクラゲ。
+ファイル名: `113.png`
+イラストのイメージ: 
+深海の美しい青い背景。成熟して弱った赤いベニクラゲが、海底の岩に沈んでいくにつれて、植物の芽のようなポリプ（幼生）へと逆行して若返り、そこから再び小さな新しいクラゲとして飛び立っていく無限ループを一つの円形の構図で描く。
+参考プロンプト: A beautiful deep-sea background. The life cycle of the immortal Turritopsis dohrnii jellyfish depicted in a circular, infinite loop. An old, weakening red jellyfish sinks to a rock, transforms backward into a tiny plant-like polyp, and then blossoms into a brand-new baby jellyfish floating upwards. Biological immortality, magical marine life, glowing colors, highly detailed.
+
+85. 【ID: 114】パンダの指は「7本」ある？
+テーマ: 笹をしっかり握るために進化した、偽の親指の秘密。
+ファイル名: `114.png`
+イラストのイメージ: 
+パンダの手のひらのアップと、レントゲン写真のような骨格の透視図。通常の5本の指に加えて、手首の骨が出っ張って進化した「第6の指（橈側手根骨）」と「第7の指（副手根骨）」が光って強調されており、器用に太い笹の茎をがっちりとホールドしている。
+参考プロンプト: A close-up of a giant panda's paw gripping a thick bamboo stalk, overlaid with an X-ray style bone structure. The image highlights the panda's secret 'sixth' and 'seventh' pseudo-thumbs (enlarged wrist bones), glowing slightly to show how they perfectly evolutionarily adapted to hold the bamboo tightly. Animal anatomy, educational illustration, highly detailed.
+
+86. 【ID: 115】アリの「農業」と「牧畜」
+テーマ: 人間より5000万年早く農業を始めたハキリアリたちの社会。
+ファイル名: `115.png`
+イラストのイメージ: 
+地下に広がるアリたちの巨大な巣穴。人間のような農家のように、アリたちが葉っぱを切り刻んでベッドを作り、そこに菌糸（白いキノコのようなもの）を丁寧に育てて収穫している。隣の部屋ではアブラムシを「乳牛」のように飼育しているミニチュアの農園風景。
+参考プロンプト: A massive underground ant colony depicted as a miniature, bustling human-like farm. Leafcutter ants are meticulously farming a glowing white fungus garden on beds of chewed leaves. In an adjacent chamber, other ants are herding aphids like tiny green dairy cows. Insect agriculture, macro photography style, magical underground world, highly detailed.
+
+87. 【ID: 116】ナマケモノの生存戦略
+テーマ: 動かないことで天敵から姿を隠す、究極の省エネライフ。
+ファイル名: `116.png`
+イラストのイメージ: 
+熱帯雨林の樹上。ナマケモノが木にぶら下がっているが、動かなすぎるために毛皮には苔（緑色の藻類）がびっしりと生え、完全に周囲の木の葉と同化している。そのすぐ下を恐ろしいジャガーが通り過ぎるが、ナマケモノの存在に全く気づいていない。
+参考プロンプト: High up in the canopy of a tropical rainforest. A sloth hangs completely motionless from a branch. Because it moves so slowly, its fur is covered in green algae, perfectly camouflaging it as part of the tree. A fierce jaguar walks on a branch just below, completely oblivious to the hidden sloth. Ultimate camouflage, survival strategy, lush jungle, highly detailed.
+
+88. 【ID: 117】カラスの知能
+テーマ: 車にクルミを轢かせて割る、鳥類最強のIQと道具を使う知恵。
+ファイル名: `117.png`
+イラストのイメージ: 
+現代の横断歩道。信号が赤になり、車が止まっている。一羽の賢そうなカラスが、タイヤのすぐ前に硬いクルミをそっと置き、信号が青になって車がクルミを割るのを、歩行者信号の上の安全な場所からニヤリとした表情で見下ろしている。
+参考プロンプト: A modern city crosswalk. The traffic light is red, and cars are stopped. A highly intelligent-looking crow carefully places a hard walnut exactly in front of a car's tire. The crow then flies up to safely sit on the pedestrian traffic light, waiting with a sly, calculating expression for the light to turn green so the car will crack the nut. Avian intelligence, urban wildlife, highly detailed.
+
+89. 【ID: 118】クジラの歌
+テーマ: 海を越えて流行歌が伝播する、クジラたちの壮大な音楽文化。
+ファイル名: `118.png`
+イラストのイメージ: 
+深い海の中で、巨大なザトウクジラが歌っている。口から発せられた音波が、五線譜と音符のような美しい光の帯となって海中をどこまでも広がっていく。遠く離れた別の海域のクジラたちが、その光のメロディを受け取り、新しい歌を覚えている神秘的な光景。
+参考プロンプト: Deep in the ocean, a massive humpback whale is singing. The sound waves emanating from its mouth transform into beautiful, glowing ribbons of light resembling musical staves and notes, traveling infinitely through the water. Distant whales receive these glowing melodies, learning the ocean's latest 'hit song'. Majestic marine life, magical realism, highly detailed.
+
+90. 【ID: 119】カンガルーの誕生
+テーマ: わずか1グラムで生まれ、自力で袋を這い上がる命のサバイバル。
+ファイル名: `119.png`
+イラストのイメージ: 
+カンガルーの母親のお腹。ジェリービーンズほどの大きさしかない（約1グラム）赤く透明な未熟な赤ちゃんが、本能だけで母親の毛を必死に掴みながら、安全な「お腹の袋（育児嚢）」を目指して険しい道のりを這い上がっていく生命の力強さ。
+参考プロンプト: A close-up of a mother kangaroo's fur. A tiny, red, almost transparent, jellybean-sized newborn kangaroo (joey) is blindly but determinedly crawling up the mother's fur, using only instinct to find the safety of her pouch. The incredible journey of life, extreme macro photography, emotional nature scene, highly detailed.
+
+91. 【ID: 120】Wi-Fiの生みの親はハリウッド女優？
+テーマ: 美貌の女優ヘディ・ラマールが発明した、現代通信の基礎技術。
+ファイル名: `120.png`
+イラストのイメージ: 
+1940年代のハリウッド。スポットライトを浴びるグラマラスな白黒映画の女優（ヘディ・ラマール）。しかし彼女の背後の鏡（あるいは影）には、ピアノの鍵盤を叩きながら、ミサイルの誘導システム（周波数ホッピング）を設計している天才発明家としての彼女の裏の顔が描かれている。
+参考プロンプト: 1940s Hollywood glamour. A stunning black-and-white movie star (Hedy Lamarr) posing under a spotlight. However, her reflection in a large mirror behind her reveals her secret life: a brilliant inventor working on a complex frequency-hopping guidance system for torpedoes while playing a piano keyboard. Dual life, hidden genius, historical technology, highly detailed.

@@ -1,0 +1,209 @@
+152. 【ID: 181】「ポン酢」のポンって何？
+テーマ: オランダ語の「ポンス（かんきつ酒）」から始まった言葉の長旅。
+ファイル名: `181.png`
+イラストのイメージ: 
+江戸時代の長崎・出島。オランダ人の商人が、柑橘類の果汁が入ったカクテル「ポンス（Pons）」のグラスを掲げて乾杯している。そのグラスからこぼれた黄金色の液体が、時代を超えて現代の日本の食卓へ流れ込み、湯豆腐の横に置かれた「ポン酢」の瓶へと注がれている、言葉と文化の美しい融合。
+参考プロンプト: Dejima in the Edo period. A Dutch merchant is raising a glass of 'Pons', a citrus-based cocktail, for a toast. The golden liquid spills from the glass, magically flowing through time and space, landing on a modern Japanese dining table and filling a bottle of 'Ponzu' sauce next to a hot pot of Yudofu. Cultural and linguistic evolution, highly detailed.
+
+153. 【ID: 182】アルファベットの「A」は牛の頭から？
+テーマ: 古代エジプトの象形文字から始まった文字の3000年回転旅行。
+ファイル名: `182.png`
+イラストのイメージ: 
+古代の壁画。角の生えた立派な「牛の頭」のヒエログリフが描かれている。その牛の頭が、歯車のようにゴトゴトと時計回りに回転しながら時代を進んでいく。横向きの「A」のようなフェニキア文字を経て、最終的に逆立ちした現在のアルファベットの「A」へと変化して輝く様子。
+参考プロンプト: An ancient Egyptian mural showing a majestic horned ox head hieroglyph. This ox head is slowly rotating clockwise like a gear through time. It transitions into the sideways Phoenician letter 'Aleph', and finally settles upside down, transforming into a glowing modern alphabet letter 'A'. The evolution of typography, ancient history, highly detailed.
+
+154. 【ID: 183】日本の「￥」マークに横線が2本あるのはなぜ？
+テーマ: 英ポンドや米ドルの模倣と、偽造防止のデザイン学。
+ファイル名: `183.png`
+イラストのイメージ: 
+明治時代の銀行のデスク。日本の役人が、イギリスの「£（ポンド）」とアメリカの「＄（ドル）」のマークが書かれた紙を見比べながら、筆で力強く「Y」の字を書いている。そして、偽造を防ぐため、さらに権威を持たせるために、二本の横線を「スッ、スッ」と力強く足して「￥」のマークを完成させた瞬間。
+参考プロンプト: A desk in a Meiji-era Japanese bank. A government official is looking at documents showing the British Pound (£) and the US Dollar ($) symbols. Using a calligraphy brush, he boldly writes the letter 'Y', and then sharply adds two horizontal lines across it to prevent forgery, finalizing the creation of the Japanese Yen symbol '￥'. Historical design, cinematic lighting, highly detailed.
+
+155. 【ID: 184】「カンガルー（わからない）」の誤解の真実
+テーマ: キャプテン・クックとアボリジニのすれ違いという都市伝説の嘘。
+ファイル名: `184.png`
+イラストのイメージ: 
+18世紀のオーストラリアの大地。探検家キャプテン・クックが、遠くを跳ねるカンガルーを指さして、現地の先住民アボリジニに「あれは何だ？」と聞いている。アボリジニは言葉が通じず「カンガルー（わからない）」と答えている...という有名な「都市伝説」の様子が、少しコミカルな劇の舞台として描かれている。
+参考プロンプト: 18th-century Australian outback. The explorer Captain Cook is pointing at a bouncing kangaroo in the distance, asking an Aboriginal local 'What is that?'. The local shrugs, saying 'Kangaroo' (which supposedly meant 'I don't know' in the myth). The scene is depicted as a slightly comical stage play to show it's a famous urban legend rather than a fact. Historical myth, highly detailed.
+
+156. 【ID: 185】英語の「I（私）」だけが大文字なのはなぜ？
+テーマ: 印刷工たちを悩ませた「見失いやすい小文字」の物理的理由。
+ファイル名: `185.png`
+イラストのイメージ: 
+中世の薄暗い印刷工房。活版印刷の職人が、小さな活字のブロックを並べて文章を作っている。「i」という文字が小さすぎてインクで潰れたり、他の文字とくっついて見えなくなってしまいイライラしている。彼は怒って、巨大で太い「I（大文字）」のブロックをドン！と叩き込んでいる。
+参考プロンプト: A dim medieval printing workshop. A stressed typesetter is arranging tiny metal type blocks. He is frustrated because the lowercase letter 'i' is too small, getting lost or smudged with ink among the other letters. In frustration, he grabs a massive, bold uppercase 'I' block and slams it firmly into place. The physical origin of capitalized 'I', historical printing press, highly detailed.
+
+157. 【ID: 186】「サボる」の語源はフランスの木靴？
+テーマ: 労働者の破壊工作から生まれた大正時代の若者スラング。
+ファイル名: `186.png`
+イラストのイメージ: 
+19世紀フランスの工場。怒った労働者が、機械の歯車に自分の硬い木靴（サボ：Sabot）を投げ込んで機械をぶっ壊し「サボタージュ」をしている。その様子が、大正時代の日本のカフェで、モダンボーイがコーヒーを飲みながら学校を休んで「サボっている」優雅な風景へとオーバーラップしている。
+参考プロンプト: A 19th-century French factory. An angry worker throws a hard wooden clog (sabot) into the gears of a machine to break it, committing 'sabotage'. This violent industrial scene overlaps with a peaceful, elegant scene in a 1920s Taisho-era Japanese cafe, where a modern student is skipping school, lazily drinking coffee (the origin of the Japanese slang 'saboru'). Etymological history, highly detailed.
+
+158. 【ID: 187】「OK」の語源
+テーマ: 19世紀のボストンで流行した「スペルミスのテキストスラング」。
+ファイル名: `187.png`
+イラストのイメージ: 
+19世紀のボストンの新聞社の編集室。若手記者が、原稿に「All Correct（すべて正しい）」と書くべきところを、あえて流行のふざけたスペルミスで「Oll Korrect」と書き、赤ペンで大きく「O.K.」と略して丸で囲んでいる。その言葉が電波に乗って、現代のスマホの「OKスタンプ」へと変わっていく。
+参考入プロンプト: A 19th-century newspaper editorial room in Boston. A young journalist intentionally misspells 'All Correct' as 'Oll Korrect' as a joke, circling the abbreviation 'O.K.' with a red pen on the manuscript. These two letters magically fly off the page, transforming into glowing, modern smartphone chat 'OK' stickers. Origin of OK, linguistic evolution, highly detailed.
+
+159. 【ID: 188】「土壇場（どたんば）」の本当の意味
+テーマ: 江戸時代の処刑台が語源？ 首切りの刃が振り下ろされる凄惨な現場。
+ファイル名: `188.png`
+イラストのイメージ: 
+江戸時代の処刑場。罪人が土を盛って作られた処刑用の台（土壇場）に座らされ、今まさに後ろから刀が振り下ろされようとしている絶体絶命の瞬間。その恐ろしい歴史的風景が、現代のビジネスマンが時計を見ながら冷や汗をかいて「締切直前（土壇場）」でパソコンを叩く姿と重なっている。
+参考プロンプト: An Edo-period execution ground. A condemned criminal is sitting on a mound of earth (the 'Dotanba'), with an executioner's sword raised high behind them in a moment of absolute desperation. This terrifying historical scene fades into a modern office worker sweating profusely, typing frantically on a laptop seconds before a deadline. The intense origin of a common phrase, dramatic lighting, highly detailed.
+
+160. 【ID: 189】「シカト」の由来は花札の鹿？
+テーマ: 10月の絵柄がそっぽを向いていることから生まれた博徒のスラング。
+ファイル名: `189.png`
+イラストのイメージ: 
+美しい日本の花札「紅葉に鹿（10月の札）」。描かれた鹿が、ツンとそっぽを向いて（完全に横顔を見せて）無視している。その花札の絵柄が実体化し、現代の女子高生が話しかけているのに、完全に無視してそっぽを向いてスマホをいじっている若者の姿に重なっている。
+参考プロンプト: A beautiful traditional Japanese Hanafuda playing card featuring 'Deer and Autumn Leaves' (October). The deer is completely turning its head away, ignoring the viewer. The deer steps out of the card and transforms into a modern teenager who is turning completely away and ignoring someone talking to them, absorbed in a smartphone. Origin of the slang 'Shikato', cultural blend, highly detailed.
+
+161. 【ID: 190】地球の自転速度
+テーマ: 実は時速1700kmで回っている？ なぜ私たちはその爆速に気づかないのか。
+ファイル名: `190.png`
+イラストのイメージ: 
+地球の赤道上に立つ人物。彼の足元の地球は、ジェット機よりも速い「時速1700km」という凄まじいスピードで回転しており、強烈なモーションブラー（ブレ）がかかっている。しかし、大気も自分も同じ速度で動いているため、本人は無風の中で穏やかにコーヒーを飲んでいる不思議な対比。
+参考プロンプト: A person standing on the Earth's equator in outer space. The Earth beneath their feet is spinning at a terrifying, supersonic speed of 1700 km/h, depicted with intense motion blur and speed lines. However, because the atmosphere is spinning with it, the person is completely unaffected, peacefully drinking coffee in perfectly calm air. Physics, the illusion of stillness, highly detailed.
+
+162. 【ID: 191】月は少しずつ遠ざかっている
+テーマ: 毎年3.8センチの別れと、地球が失う未来の光景。
+ファイル名: `191.png`
+イラストのイメージ: 
+夜空に浮かぶ美しい満月。月にテープメジャー（巻き尺）が繋がれており、目盛りが「3.8cm」引き出されている。月が静かに、しかし確実に地球から遠ざかっていく様子が描かれ、足元の地球では海流（潮の満ち引き）が少しずつ弱まっていく寂しさと壮大さを感じる情景。
+参考プロンプト: A beautiful full moon floating in the night sky. A glowing, golden measuring tape extends from the Earth to the Moon, showing it being pulled exactly '3.8 cm' further away. The Moon is slowly and silently drifting into deep space. Below on Earth, the ocean tides are depicted as gently weakening. Melancholic cosmic scale, astronomy, highly detailed.
+
+163. 【ID: 192】「1宇宙年」は2億2500万年？
+テーマ: 太陽系が天の川銀河を一周する、壮大なる銀河旅行。
+ファイル名: `192.png`
+イラストのイメージ: 
+広大な天の川銀河全体を見下ろす視点。太陽系が、小さな光の船のように銀河の巨大な渦巻きの端を周回している。その軌跡が光るリングとして描かれており、「START」地点には恐竜のシルエットが、「現在」地点には人類の街が描かれている、2億年以上のスケールの時間の視覚化。
+参考プロンプト: A breathtaking view of the entire Milky Way galaxy from above. The solar system is depicted as a tiny, glowing ship traveling along the outer edge of the massive spiral arm. Its orbital path is a glowing ring. At the 'Start' point of the ring, a silhouette of a dinosaur is visible, and at the 'Current' point, a modern human city glows, visualizing a 225-million-year journey (one Galactic Year). Cosmic scale, highly detailed.
+
+164. 【ID: 193】ダイヤモンドの雨が降る星
+テーマ: 天王星と海王星の深部で起きている不気味な極限気象。
+ファイル名: `193.png`
+イラストのイメージ: 
+海王星の深部の真っ暗で超高圧の大気中。メタンガスが圧縮され、空から雨粒の代わりに「巨大で鋭いダイヤモンドの結晶」が、豪雨のように無数に降り注いでいる。ダイヤモンドがぶつかり合って火花を散らす、美しくも圧倒的に危険で非現実的な宇宙の気象現象。
+参考入プロンプト: Deep inside the dark, crushing atmosphere of Neptune. Due to extreme pressure on methane gas, instead of water raindrops, countless massive, sharp diamond crystals are falling from the sky like heavy rain. The diamonds are clashing together, creating sparks in the dark, beautiful but deadly alien weather. Exoplanet meteorology, surreal sci-fi landscape, highly detailed.
+
+165. 【ID: 194】北極星は交代する
+テーマ: 地球の「首振りダンス」が引き起こす、1万2000年後の織姫星へのシフト。
+ファイル名: `194.png`
+イラストのイメージ: 
+地球の北極の上に巨大な「コマの軸」が立っており、それがゆっくりと円を描いて首を振っている（歳差運動）。空には現在の「北極星（ポラリス）」が輝いているが、軸の先が1万2000年後の未来を指すと、そこでは全く別の星「ベガ（織姫星）」が新しい北極星として輝きを放っている。
+参考プロンプト: A giant glowing axis rod sticks out from the North Pole of the Earth, wobbling slowly in a circular motion like a spinning top losing speed (axial precession). The current axis points to Polaris, the North Star. But a glowing, ghostly line shows where the axis will point in 12,000 years: directly at Vega, the incredibly bright future North Star. Astronomy concept, celestial mechanics, highly detailed.
+
+166. 【ID: 195】水の不思議な性質
+テーマ: 凍ると「軽くなる」という、生命を絶滅から救ったルール。
+ファイル名: `195.png`
+イラストのイメージ: 
+凍りついた湖の断面図。もし水が普通の物質のように「凍ると重く」なったら、氷が底に沈んで湖全体が凍りつき、魚たちが全滅している恐ろしい想像図（暗い底の層）。しかし現実は、氷が「軽く」なって水面に浮かび、天然の断熱材のフタとなって、底の方で魚たちが暖かく生き延びている明るい対比。
+参考プロンプト: A cross-section of a frozen lake during winter. The image contrasts two realities: The 'dark' possibility where ice becomes heavier and sinks, freezing the lake from the bottom up and killing all fish. The 'bright' reality where ice miraculously becomes lighter, floating on the surface as a protective insulating lid, allowing the fish to safely swim in the liquid water below. The life-saving physics of water, educational diagram, highly detailed.
+
+167. 【ID: 196】オーロラの音
+テーマ: 極寒の夜空で舞う光が放つ「パチパチ」という怪音。
+ファイル名: `196.png`
+イラストのイメージ: 
+極寒の雪原。巨大で美しい緑色のオーロラが夜空をうねっている。そのオーロラの下（地上に近い空気の層）で、静電気のような青い火花が「パチパチ」と音を立てて弾けている。長い間「幻聴」とされていたオーロラの音が、大気の逆転層の放電現象であるという物理的なメカニズムの可視化。
+参考プロンプト: A freezing, snowy landscape under a massive, swirling green aurora borealis. Just above the ground, in an 'inversion layer' of trapped cold air, intense blue electrical sparks are crackling and snapping loudly. Visualizing the scientific mechanism behind the mysterious, crackling sounds of the aurora that were once thought to be hallucinations. Atmospheric physics, breathtaking natural phenomenon, highly detailed.
+
+168. 【ID: 197】地球の海の総量
+テーマ: すべての凸凹を平らに均すと、地球は水深2700mの「水の檻」になる。
+ファイル名: `197.png`
+イラストのイメージ: 
+エベレストもマリアナ海溝もなくなり、完全にツルツルの球体になった地球。陸地は一切なく、全体が均一な青い海に覆われている。その横の目盛りには「水深2,700メートル」と記されており、陸上生物が生きる余地が全くない、恐ろしくも静かな「完全なる水の惑星」の姿。
+参考プロンプト: The Earth transformed into a perfectly smooth sphere with no mountains or trenches. There is absolutely no landmass; the entire planet is completely covered by a uniform, deep blue ocean. A glowing measuring gauge next to the planet reads 'Depth: 2,700 meters'. The terrifyingly calm 'Water Prison' that Earth would be if all terrain were leveled. Geographical concept, cosmic dread, highly detailed.
+
+169. 【ID: 198】太陽の寿命と地球の最後
+テーマ: 50億年後の「赤色巨星化」と、マグマの海へと還るシナリオ。
+ファイル名: `198.png`
+イラストのイメージ: 
+50億年後の絶望的な地球の風景。空の半分を覆い尽くすほど巨大に膨れ上がった、禍々しい赤い太陽（赤色巨星）。地球の海は完全に干上がり、地表はドロドロに溶けたマグマの海と化している。生命の痕跡は完全に消え去り、地球が星としての最期を迎えようとしている終末の美しさ。
+参考プロンプト: The apocalyptic surface of Earth 5 billion years in the future. The sky is completely dominated by a massive, terrifyingly bloated Red Giant sun. The oceans have entirely boiled away, and the Earth's surface has melted back into a glowing, churning ocean of liquid magma. The end of the world, complete destruction, majestic cosmic doom, highly detailed.
+
+170. 【ID: 199】宇宙の「臭い」
+テーマ: 宇宙飛行士が持ち帰る、焦げたステーキと熱い金属の謎の香り。
+ファイル名: `199.png`
+イラストのイメージ: 
+国際宇宙ステーション（ISS）のエアロック内。船外活動から戻ってきた宇宙飛行士がヘルメットを脱いだ瞬間、宇宙服から立ち上る「匂い」が視覚化されている。その煙の中には、ジュージュー焼ける焦げたステーキ、溶接現場の火花（オゾン）、そして熱せられた金属のイメージが複雑に混ざり合って浮かんでいる。
+参考プロンプト: Inside the airlock of the International Space Station. An astronaut just removed their helmet after a spacewalk. The unique 'smell of space' clinging to their spacesuit is visually depicted as floating smoke. Within the smoke are surreal images of a heavily seared, burnt steak, bright sparks from hot metal welding, and ozone. Sensory science in space, surreal visualization, highly detailed.
+
+171. 【ID: 200】トマトは果物か野菜か？
+テーマ: 19世紀アメリカ最高裁判所で争われた「関税」を巡る結末。
+ファイル名: `200.png`
+イラストのイメージ: 
+19世紀のアメリカ最高裁判所。厳格な裁判官たちの前で、植物学者が「トマトは種があるから果物だ！」と図面を見せて主張し、税関の役人が「いや、デザートではなく食事に出るから野菜だ！」とトマトを手に持って激しく言い争っている。関税の税率をめぐる、真面目で滑稽な法廷闘争。
+参考プロンプト: A strict 19th-century US Supreme Court courtroom. A passionate botanist points to a diagram, arguing 'Tomatoes have seeds, they are fruit!'. An angry customs official holds up a red tomato, arguing back, 'We eat them for dinner, not dessert, so they are vegetables!'. A serious yet comical legal battle over tariffs, historical illustration, highly detailed.
+
+172. 【ID: 201】世界を二分した「勝手な約束」
+テーマ: トリデシリャス条約。地球の裏側で日本がターゲットになった日。
+ファイル名: `201.png`
+イラストのイメージ: 
+15世紀の世界地図。ローマ教皇が、定規とペンを使って大西洋の真ん中に真っ直ぐな線を引き、「右半分はポルトガル、左半分はスペインの領土とする」と勝手に世界を二分割している。その線の延長線上の地球の裏側には、まだ見ぬ「日本」の島国があり、不吉なターゲットマークが重なっている。
+参考プロンプト: A 15th-century map of the world. The Pope is using a ruler and a quill pen to draw a straight, glowing line down the middle of the Atlantic Ocean, casually dividing the world between Spain and Portugal (Treaty of Tordesillas). On the far side of the globe, an ominous target mark appears directly over the unsuspecting islands of Japan. Age of Discovery, geopolitical arrogance, highly detailed.
+
+173. 【ID: 202】ベヒストゥーン碑文
+テーマ: ロゼッタ・ストーンを超えた、楔形文字解読の命がけの冒険譚。
+ファイル名: `202.png`
+イラストのイメージ: 
+ペルシャの断崖絶壁。地上から100メートル以上の高さにある岩壁の彫刻（ベヒストゥーン碑文）に、ヘンリー・ローリンソンがロープ1本で宙吊りになりながら必死にしがみついている。彼は風に煽られ落ちそうになりながらも、ノートに謎の楔形文字を書き写している、インディ・ジョーンズのようなスリリングな考古学の瞬間。
+参考プロンプト: A sheer, terrifying cliff face in ancient Persia. Over 100 meters above the ground, the explorer Henry Rawlinson is dangling by a single rope, clinging desperately to the Behistun Inscription carved into the rock. Strong winds buffet him as he furiously copies the mysterious cuneiform symbols into his notebook. Thrilling archaeological adventure, dangerous heights, highly detailed.
+
+174. 【ID: 203】英雄流離譚と「桃太郎」の謎
+テーマ: なぜ桃は川から流れてきた？ 中国の西王母伝説と英雄の正体。
+ファイル名: `203.png`
+イラストのイメージ: 
+川を流れてくる巨大な桃。その桃が割れると、中からは元気な赤ん坊（桃太郎）だけでなく、背後に中国の神話の女神「西王母（不老不死の桃を司る）」の神々しい後光が差している。ただの昔話ではなく、大陸の神話と「異界からの訪問者」としての神聖なルーツが融合した神秘的な光景。
+参考プロンプト: A giant, magical peach floating down a traditional Japanese river. As the peach splits open, it reveals a strong baby boy (Momotaro). However, rising behind the peach is a glowing, divine vision of Xi Wangmu, the Chinese Queen Mother of the West, who rules over the Peaches of Immortality. Blending Japanese folklore with its ancient Chinese mythological roots, majestic and mystical, highly detailed.
+
+175. 【ID: 204】悲劇と伝説の系譜
+テーマ: ヤマトタケルから源義経まで。なぜ「流離う英雄」に涙するのか。
+ファイル名: `204.png`
+イラストのイメージ: 
+夕日に染まる荒野。傷つき、ボロボロになりながらも孤独に歩き続ける「ヤマトタケル」のシルエット。その影が、同じように悲劇的な最期を遂げた「源義経」のシルエットへと繋がっている。「判官贔屓（弱い者への共感）」の感情が、桜の花びらと共に彼らを包み込む情緒的なデザイン。
+参考プロンプト: A desolate wilderness under a melancholic, blood-red sunset. The silhouette of the ancient tragic hero Yamato Takeru walks alone, wounded and weary. His shadow stretches long and transforms into the silhouette of Minamoto no Yoshitsune, another tragic, wandering hero. Cherry blossom petals blow in the wind, symbolizing the fleeting beauty of the tragic hero. Japanese mythology, emotional, highly detailed.
+
+176. 【ID: 205】千の顔を持つ英雄
+テーマ: アーサー王からルーク・スカイウォーカーまで、人類が繰り返す神話構造。
+ファイル名: `205.png`
+イラストのイメージ: 
+円形の万華鏡のような構図。中心には「普通の若者が聖剣（またはライトセーバー）を受け取る瞬間」。そこから放射状に、中世のアーサー王、古代ギリシャの英雄、そしてSFのルーク・スカイウォーカーなど、時代も世界観も全く違う英雄たちが、「出発・試練・帰還」という全く同じ円環の物語（ヒーローズ・ジャーニー）を歩んでいる図。
+参考プロンプト: A circular, mandala-like composition. In the center, a humble youth accepts a glowing magic sword (or lightsaber). Radiating outward, heroes from completely different eras—King Arthur, ancient Greek warriors, and sci-fi Jedi—are all shown walking exactly the same cyclical path: Departure, Initiation, and Return. 'The Hero with a Thousand Faces', mythological structure, epic conceptual art, highly detailed.
+
+177. 【ID: 206】北米の森にはもともと「ミミズ」がいなかった？
+テーマ: 氷河期が奪い、入植者が持ち込んだ「土壌のエイリアン」の侵略。
+ファイル名: `206.png`
+イラストのイメージ: 
+北米の森の土の断面図。1万年前の氷河期がすべてを削り取った冷たい土壌に、ヨーロッパからの入植者の船（メイフラワー号の影）から落とされた数匹の「ミミズ」が潜り込んでいる。ミミズたちが、本来の森の落ち葉を猛スピードで分解し、生態系を根本から書き換えていく「目に見えないエイリアンの侵略」の様子。
+参考プロンプト: A cross-section of North American forest soil. A European settler ship's silhouette looms above. A few invasive earthworms, brought over in ship ballast, are digging into the glacial soil. They are voraciously consuming the thick layer of fallen leaves, fundamentally altering the entire ancient ecosystem from the bottom up. Invasive species, biological invasion, educational diagram, highly detailed.
+
+178. 【ID: 207】ラブホテルになぜスロット台が設置されているのか
+テーマ: 旅館業法と風営法の違いが生んだ奇妙な空間。
+ファイル名: `207.png`
+イラストのイメージ: 
+昭和のレトロで豪華なラブホテルの部屋。ベッドのすぐ横に、場違いな「スロットマシン」や「ゲーム機」がピカピカと光っている。部屋の壁には「娯楽施設（風営法）の許可」というスタンプが押されており、法律の抜け道や定義の曖昧さをクリアするためにゲーム機が置かれたという、日本の奇妙な大人の法律事情をポップに表現。
+参考プロンプト: A retro, lavishly decorated 1980s Japanese love hotel room. Right next to a heart-shaped bed is a glowing, loudly flashing arcade slot machine. A large rubber stamp on the wall reads 'Entertainment Facility Permitted'. A pop-art visualization of how legal loopholes and business laws forced the bizarre placement of arcade games in hotel rooms. Japanese underground culture, neon lighting, highly detailed.
+
+179. 【ID: 208】ジョン・パトリック・オニール
+テーマ: 9.11を誰よりも警告し、9.11で命を落とした専門家の皮肉な運命。
+ファイル名: `208.png`
+イラストのイメージ: 
+ツインタワー（ワールドトレードセンター）のシルエットを見上げる、スーツ姿のFBIテロ対策専門家（オニール）。彼の背後には、彼が長年追い続けていたビン・ラディンの巨大な影が迫っている。テロを防ごうと奔走し、引退後に就職したビルでテロに巻き込まれるという、運命の残酷な歯車が影絵のように重なっている。
+参考プロンプト: A dramatic silhouette of FBI counter-terrorism expert John P. O'Neill looking up at the towering Twin Towers. Looming ominously behind him is the massive shadow of the terrorist mastermind he spent his life hunting. A tragic representation of a man who predicted 9/11 but ultimately died in it, gears of fate turning in the background. Cinematic, somber, thriller atmosphere, highly detailed.
+
+180. 【ID: 209】戦場カメラマン「ロバート・キャパ」の伝説
+テーマ: 現像ミスが生んだDデイの『ピンボケ写真』と被写体に近づきすぎた男。
+ファイル名: `209.png`
+イラストのイメージ: 
+ノルマンディー上陸作戦の激しい波打ち際。弾丸が飛び交う中、カメラマン（ロバート・キャパ）が波に浸かりながら決死の覚悟でシャッターを切っている。しかし、現像室での熱処理のミスによってフィルムの乳剤が溶け出し、その写真が「あの有名なピンボケ（マグニフィセント・イレブン）」へと劇的に変化していく現像プロセスの融合。
+参考プロンプト: The chaotic, bullet-riddled beaches of Normandy on D-Day. Photographer Robert Capa is wading in the water, fearlessly taking photos amidst explosions. The scene fluidly transitions into a darkroom, where intense heat from a drying cabinet is melting the photo emulsion, transforming his sharp war photos into the famous, blurry 'Magnificent Eleven' masterpieces. War photography, historical accident, highly detailed.
+
+181. 【ID: 210】世界で唯一、まだ「2018年」を生きている国
+テーマ: 13ヶ月目があるエチオピア暦の不思議。
+ファイル名: `210.png`
+イラストのイメージ: 
+世界中の人々が「現在の西暦（例：2026年）」のプラカードを持って歩いている中、アフリカのエチオピアの伝統衣装を着た人々だけが、独自の巨大なカレンダー（1年の終わりに短い「13ヶ月目」がある）の前で、「私たちはまだ2018年だ！」と笑顔で独自の時を刻んでいる、時間の概念の多様性。
+参考プロンプト: People from all over the world holding signs showing the current Gregorian year (e.g., 2026). In contrast, people in traditional Ethiopian dress are standing happily in front of a unique, giant calendar that includes a short '13th month'. Their sign proudly says 'Welcome to 2018!'. Showing the diversity of cultural timekeeping and the Ethiopian calendar. Vibrant colors, joyful atmosphere, highly detailed.
