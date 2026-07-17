@@ -18,12 +18,14 @@ from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 
+# 画像アップロードは共通モジュールに委譲（Catbox リトライ + ImgBB フォールバック）
+from image_host import upload_image
+
 # --- Configuration ---
 CLIENT_SECRETS_FILE = 'credentials.json'
 SCOPES = ['https://www.googleapis.com/auth/blogger']
 ARTICLES_FILE = 'trivia_articles.json'
 TOKEN_FILE = 'token.pickle'
-UPLOAD_API_URL = 'https://catbox.moe/user/api.php'
 
 # バイラル記事のインデックス範囲
 VIRAL_INDICES = list(range(311, 321))
@@ -56,58 +58,6 @@ def get_authenticated_service():
         with open(TOKEN_FILE, 'wb') as token:
             pickle.dump(creds, token)
     return build('blogger', 'v3', credentials=creds)
-
-
-def upload_image(file_path):
-    """Uploads an image to Catbox and returns the URL."""
-    if not os.path.exists(file_path):
-        print(f"Image not found: {file_path}")
-        return None
-
-    print(f"Uploading {file_path}...")
-    try:
-        with open(file_path, 'rb') as f:
-            files = {
-                'fileToUpload': (
-                    os.path.basename(file_path),
-                    f,
-                    'application/octet-stream'
-                )
-            }
-            data = {'reqtype': 'fileupload'}
-            headers = {
-                'User-Agent': (
-                    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
-                    'AppleWebKit/537.36 (KHTML, like Gecko) '
-                    'Chrome/150.0.0.0 Safari/537.36'
-                )
-            }
-            response = requests.post(
-                UPLOAD_API_URL, data=data, files=files,
-                headers=headers, timeout=60
-            )
-
-        if response.status_code != 200:
-            print(f"Upload failed: {response.status_code}")
-            return None
-
-        url = response.text.strip()
-        if not url.startswith('https://'):
-            print(f"Unexpected response: {url}")
-            return None
-
-        print(f"Success: {url}")
-        return url
-
-    except requests.Timeout:
-        print("Upload timed out.")
-        return None
-    except requests.RequestException as e:
-        print(f"Upload request error: {type(e).__name__}: {e}")
-        return None
-    except OSError as e:
-        print(f"Image file error: {type(e).__name__}: {e}")
-        return None
 
 
 def post_to_blogger(service, blog_id, title, content, labels, publish_time=None):
